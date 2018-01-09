@@ -6,9 +6,9 @@ layout: default
 ---
 
 
-## Table of Contents:
+### Table of Contents:
 
-- [Intro to Linear classification]("about.md">)
+- [Intro to Linear classification](about/)
 - [Linear score function](#score)
 - [Interpreting a linear classifier](#interpret)
 - [Loss function](#loss)
