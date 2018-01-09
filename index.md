@@ -5,16 +5,10 @@
 layout: default
 ---
 
-
-
-### Table of Contents:
-
+### Deneme	
+- [About](about/)
 - [About](about/)
 	- [About](about/)
-	
-### Deneme	
-- [About][]
-- [About][]
 
 ```python
 def quicksort(arr):
