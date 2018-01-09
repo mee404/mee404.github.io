@@ -6,17 +6,15 @@ layout: default
 ---
 
 
+
 ### Table of Contents:
 
-- [Intro to Linear classification](about/)
-- [Linear score function](#score)
-- [Interpreting a linear classifier](#interpret)
-- [Loss function](#loss)
-  - [Multiclass SVM](#svm)
-  - [Softmax classifier](#softmax)
-  - [SVM vs Softmax](#svmvssoftmax)
-- [Interactive Web Demo of Linear Classification](#webdemo)
-- [Summary](#summary)
+- [About](about/)
+	- [About](about/)
+	
+### Deneme	
+- [About][]
+- [About][]
 
 ```python
 def quicksort(arr):
