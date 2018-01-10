@@ -1,132 +1,524 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
+<head>
 
-  <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="author" content="Pawel Grzybek - https://pawelgrzybek.com/">
 
   <title>About</title>
+
   <meta name="description" content="Course materials and notes for IKC Universtiy class MEE404: Machine Vision in Mechatronics.">
 
-  <link rel="stylesheet" href="/assets/main.css">
+  <!-- Open graph data -->
+  <meta property="og:site_name" content="MEE404 Machine Vision in Mechatronics">
+  <meta property="og:title" content="About">
+  <meta property="og:url" content="http://localhost:4000/about/">
+  <meta property="og:type" content="article">
+  <meta property="og:description" content="Course materials and notes for IKC Universtiy class MEE404: Machine Vision in Mechatronics.">
+  <meta property="og:image" content="http://localhost:4000/assets/logo.png">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@pawelgrzybek" />
+  <meta name="twitter:creator" content="@pawelgrzybek" />
+
+  <!-- Standard Stuff -->
   <link rel="canonical" href="http://localhost:4000/about/">
-  <link rel="alternate" type="application/rss+xml" title="MEE404 Machine Vision in Mechatronics" href="/feed.xml">
+  <link rel="alternate" type="application/rss+xml" title="MEE404 Machine Vision in Mechatronics" href="http://localhost:4000/feed.xml" />
+  <link rel="alternate" type="application/json" title="MEE404 Machine Vision in Mechatronics" href="http://localhost:4000/feed.json" />
+
+  <!-- Favicons -->
+  <link rel="apple-touch-icon" sizes="114x114" href="/assets/apple-touch-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/assets/apple-touch-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/assets/apple-touch-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/assets/apple-touch-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon-180x180.png">
+  <link rel="icon" type="image/png" href="/assets/favicon-16x16.png" sizes="16x16">
+  <link rel="icon" type="image/png" href="/assets/favicon-32x32.png" sizes="32x32">
+  <link rel="icon" type="image/png" href="/assets/android-chrome-192x192.png" sizes="192x192">
+  <link rel="manifest" href="/assets/manifest.json">
+  <link rel="mask-icon" href="/assets/safari-pinned-tab.svg" color="#5bbad5">
+  <link rel="shortcut icon" href="/assets/favicon.ico">
+  <meta name="msapplication-TileColor" content="#ffffff">
+  <meta name="msapplication-TileImage" content="/assets/mstile-144x144.png">
+  <meta name="msapplication-config" content="/assets/browserconfig.xml">
+  <meta name="theme-color" content="#ffffff">
+
   
-  
+
+  <!-- Styles -->
+  <style type="text/css">
+    :root {
+  --color-text-body: #444;
+  --color-text-light: #888;
+  --color-text-headings: #111;
+  --color-text-links: #d33a2c;
+  --color-gray: #f7f7f7;
+  --color-border: #f2f2f2; }
+
+@keyframes fade {
+  0% {
+    opacity: 0;
+    transform: translateX(0.45rem); }
+  100% {
+    opacity: 1;
+    transform: none; } }
+::selection {
+  background: var(--color-text-links);
+  color: #fff;
+  text-shadow: none; }
+
+html {
+  font-size: 111.111111%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+  text-size-adjust: 100%;
+  box-sizing: border-box; }
+
+@media screen and (min-width: 1440px) {
+  html {
+    font-size: 138.888888889%; } }
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit; }
+
+body {
+  background-color: var(--color-gray);
+  color: var(--color-text-body);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 1rem;
+  line-height: 1.8rem; }
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  border: 0; }
+
+a {
+  background: transparent;
+  color: var(--color-text-links);
+  text-decoration: none;
+  word-wrap: break-word; }
+
+a:hover,
+a:focus,
+a:active {
+  text-decoration: underline; }
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-bottom: 1.8rem; }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 2.7rem;
+  color: var(--color-text-headings);
+  font-weight: 700; }
+
+h1 {
+  font-size: 1.953rem;
+  line-height: 2.7rem; }
+
+h2 {
+  font-size: 1.563rem; }
+
+h3 {
+  font-size: 1.25rem; }
+
+h4 {
+  font-size: 1rem; }
+
+h5 {
+  font-size: .8rem; }
+
+h6 {
+  font-size: .64rem; }
+
+ul,
+ol {
+  margin: 0 0 1.8rem 1.8rem; }
+
+hr {
+  display: block;
+  height: 1.8rem;
+  border: 0;
+  box-shadow: inset 0 1px 0 var(--color-gray); }
+
+blockquote {
+  margin-bottom: 1.8rem;
+  padding: 1.8rem;
+  background: var(--color-gray); }
+
+blockquote p {
+  margin: 0;
+  font-style: italic; }
+
+.wrap {
+  width: 100%;
+  max-width: calc(700px + 3.6rem);
+  margin: 0 auto;
+  padding: 0 1.8rem; }
+
+@media screen and (min-width: 1440px) {
+  .wrap {
+    max-width: calc(800px + 3.6rem); } }
+.header {
+  padding: 3.6rem 0;
+  animation-name: fade;
+  animation-duration: 280ms;
+  animation-delay: 280ms;
+  animation-fill-mode: both; }
+
+.header__title {
+  font-size: 1rem;
+  font-weight: 700;
+  margin-top: 0;
+  margin-bottom: 1.8rem;
+  line-height: 1.8rem; }
+
+.header__titleurl {
+  color: var(--color-text-headings); }
+
+.header__link {
+  margin-right: .9rem; }
+
+.main {
+  background-color: #fff;
+  padding: 3.6rem 0;
+  animation-name: fade;
+  animation-duration: 420ms;
+  animation-delay: 420ms;
+  animation-fill-mode: both;
+  box-shadow: inset 0 0 0 1px var(--color-border); }
+
+@media screen and (min-width: 700px) {
+  .main {
+    margin: 0 1.8rem; } }
+.post {
+  margin-bottom: 3.6rem; }
+
+.post__date {
+  display: block;
+  font-size: .75rem;
+  color: var(--color-text-light); }
+
+.post__title {
+  margin-top: 0; }
+
+.post__link {
+  color: var(--color-text-headings); }
+
+.footer {
+  padding: 3.6rem 0; }
+
+.pager {
+  display: flex; }
+
+.pager__btn {
+  flex-grow: 1; }
+
+.pager__btn--prev {
+  text-align: left; }
+
+.pager__btn--next {
+  text-align: right; }
+
+.share {
+  display: inline-block;
+  margin: 0 .9rem .9rem 0;
+  padding: 0 1.8rem;
+  font-size: .8rem;
+  line-height: 3.6rem;
+  box-shadow: inset 0 0 0 1px var(--color-text-links);
+  vertical-align: middle; }
+
+.share:hover,
+.share:focus {
+  background-color: var(--color-text-links);
+  color: #fff;
+  fill: #fff; }
+
+.archive {
+  margin-left: 0;
+  list-style: none; }
+
+.archive__item {
+  padding: .9rem 0;
+  box-shadow: 0 1px 0 0 var(--color-gray); }
+
+.archive__item:last-of-type {
+  box-shadow: none; }
+
+.archive__date {
+  display: block;
+  font-size: .8rem;
+  opacity: var(--color-text-light); }
+
+.archive__link {
+  display: block;
+  color: inherit;
+  font-weight: 700; }
+
+.archive__link:hover,
+.archive__link:focus {
+  color: var(--color-text-links); }
+
+pre,
+code {
+  background: var(--color-gray);
+  vertical-align: top;
+  overflow-x: auto; }
+
+pre.highlight {
+  margin-bottom: 1.8rem;
+  padding: .9rem 1.35rem;
+  background: var(--color-gray);
+  box-shadow: inset 0 0 0 1px var(--color-border); }
+
+.c {
+  color: #998; }
+
+.err {
+  background-color: #e3d2d2;
+  color: #a61717; }
+
+.k {
+  font-weight: 400; }
+
+.o {
+  font-weight: 400; }
+
+.cm {
+  color: #998; }
+
+.cp {
+  color: #999;
+  font-weight: 400; }
+
+.c1 {
+  color: #998; }
+
+.cs {
+  color: #999;
+  font-weight: 400; }
+
+.gd {
+  background-color: #fdd;
+  color: #000; }
+
+.gd .x {
+  background-color: #faa;
+  color: #000; }
+
+.gr {
+  color: #a00; }
+
+.gh {
+  color: #999; }
+
+.gi {
+  background-color: #dfd;
+  color: #000; }
+
+.gi .x {
+  background-color: #afa;
+  color: #000; }
+
+.go {
+  color: #888; }
+
+.gp {
+  color: #555; }
+
+.gs {
+  font-weight: 400; }
+
+.gu {
+  color: #aaa; }
+
+.gt {
+  color: #a00; }
+
+.kc {
+  font-weight: 400; }
+
+.kd {
+  font-weight: 400; }
+
+.kp {
+  font-weight: 400; }
+
+.kr {
+  font-weight: 400; }
+
+.kt {
+  color: #458;
+  font-weight: 400; }
+
+.m {
+  color: #099; }
+
+.s {
+  color: #d14; }
+
+.na {
+  color: #008080; }
+
+.nb {
+  color: #0086b3; }
+
+.nc {
+  color: #458;
+  font-weight: 400; }
+
+.no {
+  color: #008080; }
+
+.ni {
+  color: #800080; }
+
+.ne {
+  color: #900;
+  font-weight: 400; }
+
+.nf {
+  color: #900;
+  font-weight: 400; }
+
+.nn {
+  color: #555; }
+
+.nt {
+  color: #000080; }
+
+.nv {
+  color: #008080; }
+
+.ow {
+  font-weight: 400; }
+
+.w {
+  color: #bbb; }
+
+.mf {
+  color: #099; }
+
+.mh {
+  color: #099; }
+
+.mi {
+  color: #099; }
+
+.mo {
+  color: #099; }
+
+.sb {
+  color: #d14; }
+
+.sc {
+  color: #d14; }
+
+.sd {
+  color: #d14; }
+
+.s2 {
+  color: #d14; }
+
+.se {
+  color: #d14; }
+
+.sh {
+  color: #d14; }
+
+.si {
+  color: #d14; }
+
+.sx {
+  color: #d14; }
+
+.sr {
+  color: #009926; }
+
+.s1 {
+  color: #d14; }
+
+.ss {
+  color: #990073; }
+
+.bp {
+  color: #999; }
+
+.vc {
+  color: #008080; }
+
+.vg {
+  color: #008080; }
+
+.vi {
+  color: #008080; }
+
+.il {
+  color: #099; }
+
+  </style>
+
 </head>
 
+<body>
 
-  <body>
-
-    <header class="site-header" role="banner">
-
-  <div class="wrapper">
-    
-    
-    <a class="site-title" href="/">MEE404 Machine Vision in Mechatronics</a>
-  
-    
-      <nav class="site-nav">
-        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
-        <label for="nav-trigger">
-          <span class="menu-icon">
-            <svg viewBox="0 0 18 15" width="18px" height="15px">
-              <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
-              <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
-              <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
-            </svg>
-          </span>
-        </label>
-
-        <div class="trigger">
-          
-            
-            
-          
-            
-            
-            <a class="page-link" href="/about/">About</a>
-            
-          
-            
-            
-          
-            
-            
-          
-            
-            
-          
+      <header class="header">
+      <div class="wrap">
+        
+        <div class="header__title">
+          <a href="/" class="header__titleurl" title="MEE404 Machine Vision in Mechatronics">MEE404 Machine Vision in Mechatronics</a>
         </div>
-      </nav>
-    
-  </div>
-</header>
+        
 
+        
+        <p>Course materials and notes for IKC Universtiy class MEE404: Machine Vision in Mechatronics.</p>
+        
 
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        <article class="post">
-
-  <header class="post-header">
-    <h1 class="post-title">About</h1>
+        <nav>
+          <a href="/archive/" class="header__link" title="Archive">Archive</a>
+          <a href="http://twitter.com/" class="header__link" title="Paweł Grzybek on Twitter">Twitter</a>
+          <a href="http://github.com/mee404" class="header__link" title="Paweł Grzybek on Github">Github</a>
+        </nav>
+    </div>
   </header>
 
-  <div class="post-content">
-    <p>This page is specifically designed for the course mee404 given in IKCU by <a href="http://www.sukruozan.com">Şükrü Ozan, Ph.D.</a>. You can reach git repo for this course page at <a href="https://github.com/mee404">mee404</a></p>
 
-  </div>
+    <main class="main">
+      <div class="wrap">
+        <h1 class="post__title">About</h1>
+<p>This page is specifically designed for the course mee404 given in IKCU by <a href="http://www.sukruozan.com">Şükrü Ozan, Ph.D.</a>. You can reach git repo for this course page at <a href="https://github.com/mee404">mee404</a></p>
 
-</article>
 
       </div>
     </main>
 
-    <footer class="site-footer">
-
-  <div class="wrapper">
-
-    <h2 class="footer-heading">MEE404 Machine Vision in Mechatronics</h2>
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li>
-            
-              MEE404 Machine Vision in Mechatronics
-            
-            </li>
-            
-            <li><a href="mailto:ikcumee404@gmail.com">ikcumee404@gmail.com</a></li>
-            
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          
-          <li>
-            <a href="https://github.com/mee404"><span class="icon icon--github"><svg viewBox="0 0 16 16" width="16px" height="16px"><path fill="#828282" d="M7.999,0.431c-4.285,0-7.76,3.474-7.76,7.761 c0,3.428,2.223,6.337,5.307,7.363c0.388,0.071,0.53-0.168,0.53-0.374c0-0.184-0.007-0.672-0.01-1.32 c-2.159,0.469-2.614-1.04-2.614-1.04c-0.353-0.896-0.862-1.135-0.862-1.135c-0.705-0.481,0.053-0.472,0.053-0.472 c0.779,0.055,1.189,0.8,1.189,0.8c0.692,1.186,1.816,0.843,2.258,0.645c0.071-0.502,0.271-0.843,0.493-1.037 C4.86,11.425,3.049,10.76,3.049,7.786c0-0.847,0.302-1.54,0.799-2.082C3.768,5.507,3.501,4.718,3.924,3.65 c0,0,0.652-0.209,2.134,0.796C6.677,4.273,7.34,4.187,8,4.184c0.659,0.003,1.323,0.089,1.943,0.261 c1.482-1.004,2.132-0.796,2.132-0.796c0.423,1.068,0.157,1.857,0.077,2.054c0.497,0.542,0.798,1.235,0.798,2.082 c0,2.981-1.814,3.637-3.543,3.829c0.279,0.24,0.527,0.713,0.527,1.437c0,1.037-0.01,1.874-0.01,2.129 c0,0.208,0.14,0.449,0.534,0.373c3.081-1.028,5.302-3.935,5.302-7.362C15.76,3.906,12.285,0.431,7.999,0.431z"/></svg>
-</span><span class="username">mee404</span></a>
-
-          </li>
-          
-
-          
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <p>Course materials and notes for IKC Universtiy class MEE404: Machine Vision in Mechatronics.</p>
-      </div>
+      <footer class="footer">
+    <div class="wrap">
+      Copyright © 2017 Pawel Grzybek | Powered by <a href="http://jekyllrb.com/">Jekyll</a>
     </div>
-
-  </div>
-
-</footer>
+  </footer>
 
 
-  </body>
 
+</body>
 </html>

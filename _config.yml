@@ -18,12 +18,13 @@ email: ikcumee404@gmail.com
 description: "Course materials and notes for IKC Universtiy class MEE404: Machine Vision in Mechatronics."
 #baseurl: "http://mee404.github.io"
 url: "http://mee404.github.io"
-#twitter_username: jekyllrb
+twitter_username: sukruozan
 github_username:  mee404
 
 # Build settings
 markdown: kramdown
-theme: minima
+#theme: minima
+theme: jekyll-theme-awesome
 plugins:
   - jekyll-feed
 
