@@ -24,7 +24,7 @@ github_username:  mee404
 # Build settings
 markdown: kramdown
 #theme: minima
-theme: jekyll-theme-awesome
+theme: jekyll-theme-modernist
 plugins:
   - jekyll-feed
 
