@@ -4,6 +4,8 @@ title: Python Numpy Tutorial
 permalink: /python-numpy-tutorial/
 ---
 
+
+
 <!--
 Python:
   Simple data types
@@ -33,10 +35,11 @@ for the rest of you, this section will serve as a quick crash course both on
 the Python programming language and on the use of Python for scientific
 computing.
 
+<!--
 Some of you may have previous knowledge in Matlab, in which case we also recommend the [numpy for Matlab users](http://wiki.scipy.org/NumPy_for_Matlab_Users) page.
 
 You can also find an [IPython notebook version of this tutorial here](https://github.com/kuleshov/cs228-material/blob/master/tutorials/python/cs228-python-tutorial.ipynb) created by [Volodymyr Kuleshov](http://web.stanford.edu/~kuleshov/) and [Isaac Caswell](https://symsys.stanford.edu/viewing/symsysaffiliate/21335) for [CS 228](http://cs.stanford.edu/~ermon/cs228/index.html).
-
+-->
 Table of contents:
 
 - [Python](#python)
@@ -54,10 +57,13 @@ Table of contents:
   - [Datatypes](#numpy-datatypes)
   - [Array math](#numpy-math)
   - [Broadcasting](#numpy-broadcasting)
+
+<!---
 - [SciPy](#scipy)
   - [Image operations](#scipy-image)
   - [MATLAB files](#scipy-matlab)
   - [Distance between points](#scipy-dist)
+-->
 - [Matplotlib](#matplotlib)
   - [Plotting](#matplotlib-plotting)
   - [Subplots](#matplotlib-subplots)
@@ -930,6 +936,7 @@ know about numpy, but is far from complete. Check out the
 [numpy reference](http://docs.scipy.org/doc/numpy/reference/)
 to find out much more about numpy.
 
+<!--
 <a name='scipy'></a>
 
 ## SciPy
@@ -1024,6 +1031,7 @@ You can read all the details about this function
 A similar function (`scipy.spatial.distance.cdist`) computes the distance between all pairs
 across two sets of points; you can read about it
 [in the documentation](http://docs.scipy.org/doc/scipy/reference/generated/scipy.spatial.distance.cdist.html).
+-->
 
 <a name='matplotlib'></a>
 

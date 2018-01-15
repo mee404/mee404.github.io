@@ -1,8 +1,40 @@
 ---
 layout: default
-title: Python Numpy Tutorial
-permalink: /python-numpy-tutorial/
+title: Pillow Tutorial
+permalink: /pillow-tutorial/
 ---
+
+In this course we will use python's PIL ( aka pillow) library. The following examples show the common usage of the library.
+
+## EXAMPLE 1
+
+In this example the script simply opens and shows an image file.
+
+```python
+from PIL import Images
+im = Image.open('lena.png')
+im.show()
+```
+
+![](/assets/lena.png){:height="50%" width="50%"}
+
+Lena image is a well-know image in processing literature. We will be dealing with this image and its gray scale version during the class throughout the semester. The above script simply reads a given image file and shows it with a predefined viewer program specific for your operating system.
+
+
+# EXAMPLE 2
+
+In this example the script simply opens and shows an image file.
+
+```python
+from PIL import Images
+im = Image.open('lena.png')
+im.show()
+```
+
+![](/assets/lena.png){:height="50%" width="50%"}
+
+Lena image is a well-know image in processing literature. We will be dealing with this image and its gray scale version during the class throughout the semester. The above script simply reads a given image file and shows it with a predefined viewer program specific for your operating system.
+
 
 <!--
 Python:
@@ -21,49 +53,6 @@ Python:
 Numpy
 -->
 
-This tutorial was contributed by [Justin Johnson](http://cs.stanford.edu/people/jcjohns/).
-
-We will use the Python programming language for all assignments in this course.
-Python is a great general-purpose programming language on its own, but with the
-help of a few popular libraries (numpy, scipy, matplotlib) it becomes a powerful
-environment for scientific computing.
-
-We expect that many of you will have some experience with Python and numpy;
-for the rest of you, this section will serve as a quick crash course both on
-the Python programming language and on the use of Python for scientific
-computing.
-
-Some of you may have previous knowledge in Matlab, in which case we also recommend the [numpy for Matlab users](http://wiki.scipy.org/NumPy_for_Matlab_Users) page.
-
-You can also find an [IPython notebook version of this tutorial here](https://github.com/kuleshov/cs228-material/blob/master/tutorials/python/cs228-python-tutorial.ipynb) created by [Volodymyr Kuleshov](http://web.stanford.edu/~kuleshov/) and [Isaac Caswell](https://symsys.stanford.edu/viewing/symsysaffiliate/21335) for [CS 228](http://cs.stanford.edu/~ermon/cs228/index.html).
-
-Table of contents:
-
-- [Python](#python)
-  - [Basic data types](#python-basic)
-  - [Containers](#python-containers)
-      - [Lists](#python-lists)
-      - [Dictionaries](#python-dicts)
-      - [Sets](#python-sets)
-      - [Tuples](#python-tuples)
-  - [Functions](#python-functions)
-  - [Classes](#python-classes)
-- [Numpy](#numpy)
-  - [Arrays](#numpy-arrays)
-  - [Array indexing](#numpy-array-indexing)
-  - [Datatypes](#numpy-datatypes)
-  - [Array math](#numpy-math)
-  - [Broadcasting](#numpy-broadcasting)
-- [SciPy](#scipy)
-  - [Image operations](#scipy-image)
-  - [MATLAB files](#scipy-matlab)
-  - [Distance between points](#scipy-dist)
-- [Matplotlib](#matplotlib)
-  - [Plotting](#matplotlib-plotting)
-  - [Subplots](#matplotlib-subplots)
-  - [Images](#matplotlib-images)
-
-<a name='python'></a>
 
 ## Python
 

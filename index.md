@@ -6,7 +6,7 @@ layout: default
 ---
 
 ### Preperation
-- [Python Numpy Tutorial](python-numpy-tutorial/){:target="_blank"}	
-- [iPython Tutorial](ipython-tutorial/){:target="_blank"}
-- [Pillow Tutorial](pillow-tutorial/){:target="_blank"}	
-- [About](about/){:target="_blank"}	
+- [Python Numpy Tutorial](python-numpy-tutorial/){:target="blank"}
+- [iPython Tutorial](ipython-tutorial/){:target="blank"}
+- [Pillow Tutorial](pillow-tutorial/){:target="blank"}
+- [About](about/){:target="blank"}

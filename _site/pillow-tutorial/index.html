@@ -5,17 +5,17 @@
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
 
 <!-- Begin Jekyll SEO tag v2.4.0 -->
-<title>Python Numpy Tutorial | MEE404 Machine Vision in Mechatronics</title>
+<title>Pillow Tutorial | MEE404 Machine Vision in Mechatronics</title>
 <meta name="generator" content="Jekyll v3.7.0" />
-<meta property="og:title" content="Python Numpy Tutorial" />
+<meta property="og:title" content="Pillow Tutorial" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Course materials and notes for IKC Universtiy class MEE404: Machine Vision in Mechatronics." />
 <meta property="og:description" content="Course materials and notes for IKC Universtiy class MEE404: Machine Vision in Mechatronics." />
-<link rel="canonical" href="http://localhost:4000/python-numpy-tutorial/" />
-<meta property="og:url" content="http://localhost:4000/python-numpy-tutorial/" />
+<link rel="canonical" href="http://localhost:4000/pillow-tutorial/" />
+<meta property="og:url" content="http://localhost:4000/pillow-tutorial/" />
 <meta property="og:site_name" content="MEE404 Machine Vision in Mechatronics" />
 <script type="application/ld+json">
-{"headline":"Python Numpy Tutorial","description":"Course materials and notes for IKC Universtiy class MEE404: Machine Vision in Mechatronics.","@type":"WebPage","url":"http://localhost:4000/python-numpy-tutorial/","@context":"http://schema.org"}</script>
+{"headline":"Pillow Tutorial","description":"Course materials and notes for IKC Universtiy class MEE404: Machine Vision in Mechatronics.","@type":"WebPage","url":"http://localhost:4000/pillow-tutorial/","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -43,7 +43,35 @@
       </header>
       <section>
 
-      <!--
+      <p>In this course we will use python’s PIL ( aka pillow) library. The following examples show the common usage of the library.</p>
+
+<h2 id="example-1">EXAMPLE 1</h2>
+
+<p>In this example the script simply opens and shows an image file.</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">from</span> <span class="nn">PIL</span> <span class="kn">import</span> <span class="n">Images</span>
+<span class="n">im</span> <span class="o">=</span> <span class="n">Image</span><span class="o">.</span><span class="nb">open</span><span class="p">(</span><span class="s">'lena.png'</span><span class="p">)</span>
+<span class="n">im</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
+</code></pre></div></div>
+
+<p><img src="/assets/lena.png" alt="" height="50%" width="50%" /></p>
+
+<p>Lena image is a well-know image in processing literature. We will be dealing with this image and its gray scale version during the class throughout the semester. The above script simply reads a given image file and shows it with a predefined viewer program specific for your operating system.</p>
+
+<h1 id="example-2">EXAMPLE 2</h1>
+
+<p>In this example the script simply opens and shows an image file.</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">from</span> <span class="nn">PIL</span> <span class="kn">import</span> <span class="n">Images</span>
+<span class="n">im</span> <span class="o">=</span> <span class="n">Image</span><span class="o">.</span><span class="nb">open</span><span class="p">(</span><span class="s">'lena.png'</span><span class="p">)</span>
+<span class="n">im</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
+</code></pre></div></div>
+
+<p><img src="/assets/lena.png" alt="" height="50%" width="50%" /></p>
+
+<p>Lena image is a well-know image in processing literature. We will be dealing with this image and its gray scale version during the class throughout the semester. The above script simply reads a given image file and shows it with a predefined viewer program specific for your operating system.</p>
+
+<!--
 Python:
   Simple data types
     integer, float, string
@@ -59,70 +87,6 @@ Python:
 
 Numpy
 -->
-
-<p>This tutorial was contributed by <a href="http://cs.stanford.edu/people/jcjohns/">Justin Johnson</a>.</p>
-
-<p>We will use the Python programming language for all assignments in this course.
-Python is a great general-purpose programming language on its own, but with the
-help of a few popular libraries (numpy, scipy, matplotlib) it becomes a powerful
-environment for scientific computing.</p>
-
-<p>We expect that many of you will have some experience with Python and numpy;
-for the rest of you, this section will serve as a quick crash course both on
-the Python programming language and on the use of Python for scientific
-computing.</p>
-
-<!--
-Some of you may have previous knowledge in Matlab, in which case we also recommend the [numpy for Matlab users](http://wiki.scipy.org/NumPy_for_Matlab_Users) page.
-
-You can also find an [IPython notebook version of this tutorial here](https://github.com/kuleshov/cs228-material/blob/master/tutorials/python/cs228-python-tutorial.ipynb) created by [Volodymyr Kuleshov](http://web.stanford.edu/~kuleshov/) and [Isaac Caswell](https://symsys.stanford.edu/viewing/symsysaffiliate/21335) for [CS 228](http://cs.stanford.edu/~ermon/cs228/index.html).
--->
-<p>Table of contents:</p>
-
-<ul>
-  <li><a href="#python">Python</a>
-    <ul>
-      <li><a href="#python-basic">Basic data types</a></li>
-      <li><a href="#python-containers">Containers</a>
-        <ul>
-          <li><a href="#python-lists">Lists</a></li>
-          <li><a href="#python-dicts">Dictionaries</a></li>
-          <li><a href="#python-sets">Sets</a></li>
-          <li><a href="#python-tuples">Tuples</a></li>
-        </ul>
-      </li>
-      <li><a href="#python-functions">Functions</a></li>
-      <li><a href="#python-classes">Classes</a></li>
-    </ul>
-  </li>
-  <li><a href="#numpy">Numpy</a>
-    <ul>
-      <li><a href="#numpy-arrays">Arrays</a></li>
-      <li><a href="#numpy-array-indexing">Array indexing</a></li>
-      <li><a href="#numpy-datatypes">Datatypes</a></li>
-      <li><a href="#numpy-math">Array math</a></li>
-      <li><a href="#numpy-broadcasting">Broadcasting</a></li>
-    </ul>
-  </li>
-</ul>
-
-<!---
-- [SciPy](#scipy)
-  - [Image operations](#scipy-image)
-  - [MATLAB files](#scipy-matlab)
-  - [Distance between points](#scipy-dist)
--->
-<ul>
-  <li><a href="#matplotlib">Matplotlib</a>
-    <ul>
-      <li><a href="#matplotlib-plotting">Plotting</a></li>
-      <li><a href="#matplotlib-subplots">Subplots</a></li>
-      <li><a href="#matplotlib-images">Images</a></li>
-    </ul>
-  </li>
-</ul>
-
-<p><a name="python"></a></p>
 
 <h2 id="python">Python</h2>
 
@@ -950,102 +914,98 @@ know about numpy, but is far from complete. Check out the
 <a href="http://docs.scipy.org/doc/numpy/reference/">numpy reference</a>
 to find out much more about numpy.</p>
 
-<!--
-<a name='scipy'></a>
+<p><a name="scipy"></a></p>
 
-## SciPy
-Numpy provides a high-performance multidimensional array and basic tools to
+<h2 id="scipy">SciPy</h2>
+<p>Numpy provides a high-performance multidimensional array and basic tools to
 compute with and manipulate these arrays.
-[SciPy](http://docs.scipy.org/doc/scipy/reference/)
+<a href="http://docs.scipy.org/doc/scipy/reference/">SciPy</a>
 builds on this, and provides
 a large number of functions that operate on numpy arrays and are useful for
-different types of scientific and engineering applications.
+different types of scientific and engineering applications.</p>
 
-The best way to get familiar with SciPy is to
-[browse the documentation](http://docs.scipy.org/doc/scipy/reference/index.html).
-We will highlight some parts of SciPy that you might find useful for this class.
+<p>The best way to get familiar with SciPy is to
+<a href="http://docs.scipy.org/doc/scipy/reference/index.html">browse the documentation</a>.
+We will highlight some parts of SciPy that you might find useful for this class.</p>
 
-<a name='scipy-image'></a>
+<p><a name="scipy-image"></a></p>
 
-### Image operations
-SciPy provides some basic functions to work with images.
+<h3 id="image-operations">Image operations</h3>
+<p>SciPy provides some basic functions to work with images.
 For example, it has functions to read images from disk into numpy arrays,
 to write numpy arrays to disk as images, and to resize images.
-Here is a simple example that showcases these functions:
+Here is a simple example that showcases these functions:</p>
 
-```python
-from scipy.misc import imread, imsave, imresize
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">from</span> <span class="nn">scipy.misc</span> <span class="kn">import</span> <span class="n">imread</span><span class="p">,</span> <span class="n">imsave</span><span class="p">,</span> <span class="n">imresize</span>
 
-# Read an JPEG image into a numpy array
-img = imread('assets/cat.jpg')
-print(img.dtype, img.shape)  # Prints "uint8 (400, 248, 3)"
+<span class="c"># Read an JPEG image into a numpy array</span>
+<span class="n">img</span> <span class="o">=</span> <span class="n">imread</span><span class="p">(</span><span class="s">'assets/cat.jpg'</span><span class="p">)</span>
+<span class="k">print</span><span class="p">(</span><span class="n">img</span><span class="o">.</span><span class="n">dtype</span><span class="p">,</span> <span class="n">img</span><span class="o">.</span><span class="n">shape</span><span class="p">)</span>  <span class="c"># Prints "uint8 (400, 248, 3)"</span>
 
-# We can tint the image by scaling each of the color channels
-# by a different scalar constant. The image has shape (400, 248, 3);
-# we multiply it by the array [1, 0.95, 0.9] of shape (3,);
-# numpy broadcasting means that this leaves the red channel unchanged,
-# and multiplies the green and blue channels by 0.95 and 0.9
-# respectively.
-img_tinted = img * [1, 0.95, 0.9]
+<span class="c"># We can tint the image by scaling each of the color channels</span>
+<span class="c"># by a different scalar constant. The image has shape (400, 248, 3);</span>
+<span class="c"># we multiply it by the array [1, 0.95, 0.9] of shape (3,);</span>
+<span class="c"># numpy broadcasting means that this leaves the red channel unchanged,</span>
+<span class="c"># and multiplies the green and blue channels by 0.95 and 0.9</span>
+<span class="c"># respectively.</span>
+<span class="n">img_tinted</span> <span class="o">=</span> <span class="n">img</span> <span class="o">*</span> <span class="p">[</span><span class="mi">1</span><span class="p">,</span> <span class="mf">0.95</span><span class="p">,</span> <span class="mf">0.9</span><span class="p">]</span>
 
-# Resize the tinted image to be 300 by 300 pixels.
-img_tinted = imresize(img_tinted, (300, 300))
+<span class="c"># Resize the tinted image to be 300 by 300 pixels.</span>
+<span class="n">img_tinted</span> <span class="o">=</span> <span class="n">imresize</span><span class="p">(</span><span class="n">img_tinted</span><span class="p">,</span> <span class="p">(</span><span class="mi">300</span><span class="p">,</span> <span class="mi">300</span><span class="p">))</span>
 
-# Write the tinted image back to disk
-imsave('assets/cat_tinted.jpg', img_tinted)
-```
+<span class="c"># Write the tinted image back to disk</span>
+<span class="n">imsave</span><span class="p">(</span><span class="s">'assets/cat_tinted.jpg'</span><span class="p">,</span> <span class="n">img_tinted</span><span class="p">)</span>
+</code></pre></div></div>
 
-<div class='fig figcenter fighighlight'>
-  <img src='/assets/cat.jpg'>
-  <img src='/assets/cat_tinted.jpg'>
-  <div class='figcaption'>
+<div class="fig figcenter fighighlight">
+  <img src="/assets/cat.jpg" />
+  <img src="/assets/cat_tinted.jpg" />
+  <div class="figcaption">
     Left: The original image.
     Right: The tinted and resized image.
   </div>
 </div>
 
-<a name='scipy-matlab'></a>
+<p><a name="scipy-matlab"></a></p>
 
-### MATLAB files
-The functions `scipy.io.loadmat` and `scipy.io.savemat` allow you to read and
+<h3 id="matlab-files">MATLAB files</h3>
+<p>The functions <code class="highlighter-rouge">scipy.io.loadmat</code> and <code class="highlighter-rouge">scipy.io.savemat</code> allow you to read and
 write MATLAB files. You can read about them
-[in the documentation](http://docs.scipy.org/doc/scipy/reference/io.html).
+<a href="http://docs.scipy.org/doc/scipy/reference/io.html">in the documentation</a>.</p>
 
-<a name='scipy-dist'></a>
+<p><a name="scipy-dist"></a></p>
 
-### Distance between points
-SciPy defines some useful functions for computing distances between sets of points.
+<h3 id="distance-between-points">Distance between points</h3>
+<p>SciPy defines some useful functions for computing distances between sets of points.</p>
 
-The function `scipy.spatial.distance.pdist` computes the distance between all pairs
-of points in a given set:
+<p>The function <code class="highlighter-rouge">scipy.spatial.distance.pdist</code> computes the distance between all pairs
+of points in a given set:</p>
 
-```python
-import numpy as np
-from scipy.spatial.distance import pdist, squareform
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="n">np</span>
+<span class="kn">from</span> <span class="nn">scipy.spatial.distance</span> <span class="kn">import</span> <span class="n">pdist</span><span class="p">,</span> <span class="n">squareform</span>
 
-# Create the following array where each row is a point in 2D space:
-# [[0 1]
-#  [1 0]
-#  [2 0]]
-x = np.array([[0, 1], [1, 0], [2, 0]])
-print(x)
+<span class="c"># Create the following array where each row is a point in 2D space:</span>
+<span class="c"># [[0 1]</span>
+<span class="c">#  [1 0]</span>
+<span class="c">#  [2 0]]</span>
+<span class="n">x</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">array</span><span class="p">([[</span><span class="mi">0</span><span class="p">,</span> <span class="mi">1</span><span class="p">],</span> <span class="p">[</span><span class="mi">1</span><span class="p">,</span> <span class="mi">0</span><span class="p">],</span> <span class="p">[</span><span class="mi">2</span><span class="p">,</span> <span class="mi">0</span><span class="p">]])</span>
+<span class="k">print</span><span class="p">(</span><span class="n">x</span><span class="p">)</span>
 
-# Compute the Euclidean distance between all rows of x.
-# d[i, j] is the Euclidean distance between x[i, :] and x[j, :],
-# and d is the following array:
-# [[ 0.          1.41421356  2.23606798]
-#  [ 1.41421356  0.          1.        ]
-#  [ 2.23606798  1.          0.        ]]
-d = squareform(pdist(x, 'euclidean'))
-print(d)
-```
-You can read all the details about this function
-[in the documentation](http://docs.scipy.org/doc/scipy/reference/generated/scipy.spatial.distance.pdist.html).
+<span class="c"># Compute the Euclidean distance between all rows of x.</span>
+<span class="c"># d[i, j] is the Euclidean distance between x[i, :] and x[j, :],</span>
+<span class="c"># and d is the following array:</span>
+<span class="c"># [[ 0.          1.41421356  2.23606798]</span>
+<span class="c">#  [ 1.41421356  0.          1.        ]</span>
+<span class="c">#  [ 2.23606798  1.          0.        ]]</span>
+<span class="n">d</span> <span class="o">=</span> <span class="n">squareform</span><span class="p">(</span><span class="n">pdist</span><span class="p">(</span><span class="n">x</span><span class="p">,</span> <span class="s">'euclidean'</span><span class="p">))</span>
+<span class="k">print</span><span class="p">(</span><span class="n">d</span><span class="p">)</span>
+</code></pre></div></div>
+<p>You can read all the details about this function
+<a href="http://docs.scipy.org/doc/scipy/reference/generated/scipy.spatial.distance.pdist.html">in the documentation</a>.</p>
 
-A similar function (`scipy.spatial.distance.cdist`) computes the distance between all pairs
+<p>A similar function (<code class="highlighter-rouge">scipy.spatial.distance.cdist</code>) computes the distance between all pairs
 across two sets of points; you can read about it
-[in the documentation](http://docs.scipy.org/doc/scipy/reference/generated/scipy.spatial.distance.cdist.html).
--->
+<a href="http://docs.scipy.org/doc/scipy/reference/generated/scipy.spatial.distance.cdist.html">in the documentation</a>.</p>
 
 <p><a name="matplotlib"></a></p>
 
