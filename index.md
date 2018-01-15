@@ -5,21 +5,8 @@
 layout: default
 ---
 
-### Deneme	
-- [About](about/)
-- [About](about/)
-	- [About](about/)
-
-```python
-def quicksort(arr):
-    if len(arr) <= 1:
-        return arr
-    pivot = arr[len(arr) // 2]
-    left = [x for x in arr if x < pivot]
-    middle = [x for x in arr if x == pivot]
-    right = [x for x in arr if x > pivot]
-    return quicksort(left) + middle + quicksort(right)
-
-print(quicksort([3,6,8,10,1,2,1]))
-# Prints "[1, 1, 2, 3, 6, 8, 10]"
-```
+### Preperation
+- [Python Numpy Tutorial](python-numpy-tutorial/){:target="_blank"}	
+- [iPython Tutorial](ipython-tutorial/){:target="_blank"}
+- [Pillow Tutorial](pillow-tutorial/){:target="_blank"}	
+- [About](about/){:target="_blank"}	
