@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Pillow Tutorial
-permalink: /pillow-tutorial/
+permalink: /tutorials/pillow-tutorial/
 ---
 
 In this course we will use python's PIL ( aka pillow) library. The following examples show the common usage of the library.

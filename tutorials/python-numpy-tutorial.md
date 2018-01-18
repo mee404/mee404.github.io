@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Python Numpy Tutorial
-permalink: /python-numpy-tutorial/
+permalink: /tutorials/python-numpy-tutorial/
 ---
 
 

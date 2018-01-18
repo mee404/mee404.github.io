@@ -1,18 +1,18 @@
 ---
 layout: default
 title: IPython Tutorial
-permalink: /ipython-tutorial/
+permalink: /tutorials/ipython-tutorial/
 ---
 {{md title}}
 
 ***(Note: some of the screenshots here may be out-of-date. However, this should still prove
 useful as a quick intro, and for the general menu layout, etc.)***
 
-In this class, we will use IPython notebooks (more recently known as 
-[Jupyter notebooks](https://jupyter.org/)) for the programming assignments. 
-An IPython notebook lets you write and execute Python code in your web browser. 
-IPython notebooks make it very easy to tinker with code and execute it in bits 
-and pieces; for this reason IPython notebooks are widely used in scientific 
+In this class, we will use IPython notebooks (more recently known as
+[Jupyter notebooks](https://jupyter.org/)) for the programming assignments.
+An IPython notebook lets you write and execute Python code in your web browser.
+IPython notebooks make it very easy to tinker with code and execute it in bits
+and pieces; for this reason IPython notebooks are widely used in scientific
 computing.
 
 *(Note: if your virtual environment installed correctly (as per the assignment handouts),

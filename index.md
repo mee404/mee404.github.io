@@ -7,9 +7,10 @@ layout: default
 ### About the Course
 - [Tentative Syllabus](syllabus/){:target="blank"}
 
-
-
 ### Tutorials
-- [Pillow Tutorial](pillow-tutorial/){:target="blank"}
-- [Python Numpy Tutorial](python-numpy-tutorial/){:target="blank"}
-- [iPython Tutorial](ipython-tutorial/){:target="blank"}
+- [Pillow Tutorial](/tutorials/pillow-tutorial/){:target="blank"}
+- [Python Numpy Tutorial](/tutorials/python-numpy-tutorial/){:target="blank"}
+- [iPython Tutorial](/tutorials/ipython-tutorial/){:target="blank"}
+
+###  Exercises
+- [Deneme](/exercises/knn.ipynb)
