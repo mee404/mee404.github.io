@@ -21,10 +21,13 @@ url: "http://mee404.github.io"
 twitter_username: sukruozan
 github_username:  mee404
 
+header_pages:
+  - about.md{:target="blank"}
+
 # Build settings
 markdown: kramdown
 #theme: minima
-theme: jekyll-theme-modernist
+theme: minima
 plugins:
   - jekyll-feed
 
