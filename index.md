@@ -24,6 +24,23 @@ It is very common to use virtual environments for specific tasks. It helps you t
 ```sh
 virtualenv --system-site-packages venv
 ```
-
-
-- [Deneme](/exercises/knn.ipynb)
+Once you create virtual instance you can work on it by simply running the following command in the terminal.
+```sh
+source vev/bin/activate
+```
+In this class we will need [pillow](https://pillow.readthedocs.io/en/latest/installation.html){:target="blank"} library which should be installed separately. You can use **pip** to install Pillow.
+```sh
+pip install pillow
+```
+We will also extensively use matplotlib. If you dont have it installed on your system, you can also install it likewise.
+```sh
+pip install matplotlib
+```
+The exercises will be in iPython Notebook format. Hence you will also need Jupyter Notebook installation. It is also straightforward to install Jupyter Notebook.
+```sh
+pip install jupyter
+```
+See [iPython Tutorial](/tutorials/ipython-tutorial/){:target="blank"} for further details. The exercises will be in the exercises folder of [this](https://github.com/mee404/mee404.github.io){:target="blank"}  GitHub Repository. The repo will be updated regularly. To follow the updates visit this site occasionally. Assuming that you download the repo, just cd to the exercises directory and there run the following command.
+```sh
+jupyter notebook
+```
