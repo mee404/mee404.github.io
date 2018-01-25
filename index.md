@@ -44,3 +44,4 @@ See [iPython Tutorial](/tutorials/ipython-tutorial/){:target="blank"} for furthe
 ```sh
 jupyter notebook
 ```
+Once you run the above command it will start a local server where you can reach, view and run ipynb files easily.
