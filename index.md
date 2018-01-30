@@ -5,6 +5,9 @@
 layout: default
 exclude: true
 ---
+### Latest Announcements
+- Our first lecture will be on February 16th, 2018. See you at the class.
+
 ### About the Course
 - [Tentative Syllabus](syllabus/){:target="blank"}
 
@@ -44,4 +47,7 @@ See [iPython Tutorial](/tutorials/ipython-tutorial/){:target="blank"} for furthe
 ```sh
 jupyter notebook
 ```
-Once you run the above command it will start a local server where you can reach, view and run ipynb files easily.
+Once you run the above command it will start a local server where you can reach, view and run ipynb files easily. It is strongly recommended that you get ipython jupyter up and running, but alternatively you can reach the exercises as static pages from the following links as well.
+
+- [EXERCISE 0](/exercises/exercise00/){:target="blank"} 
+- [EXERCISE 1](/exercises/exercise01/){:target="blank"} 

@@ -6,11 +6,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>MEE404 - Machine Vision in Mechatronics</title>
+  <title>Exercise 0</title>
   <meta name="description" content="Course materials and notes for IKC Universtiy class MEE404: Machine Vision in Mechatronics.">
 
   <link rel="stylesheet" href="/assets/main.css">
-  <link rel="canonical" href="http://localhost:4000/">
+  <link rel="canonical" href="http://localhost:4000/exercises/exercise00">
   <link rel="alternate" type="application/rss+xml" title="MEE404 - Machine Vision in Mechatronics" href="/feed.xml">
   
   
@@ -53,53 +53,41 @@
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        <h3 id="latest-announcements">Latest Announcements</h3>
-<ul>
-  <li>Our first lecture will be on February 16th, 2018. See you at the class.</li>
-</ul>
+        <script type="text/javascript" async="" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+MathJax.Hub.Config({
+TeX: { equationNumbers: { autoNumber: "AMS" } }
+});
+</script>
 
-<h3 id="about-the-course">About the Course</h3>
-<ul>
-  <li><a href="syllabus/" target="blank">Tentative Syllabus</a></li>
-</ul>
+<h1 id="hello-world">Hello World!</h1>
 
-<h3 id="tutorials">Tutorials</h3>
-<ul>
-  <li><a href="/tutorials/pillow-tutorial/" target="blank">Pillow Tutorial</a></li>
-  <li><a href="/tutorials/python-numpy-tutorial/" target="blank">Python Numpy Tutorial</a></li>
-  <li><a href="/tutorials/ipython-tutorial/" target="blank">iPython Tutorial</a></li>
-</ul>
+<p>This simple example is to show you how to work with a Jupyter Notebook file. This paragraph is written in a markdown cell. You can add or delete cells from the menu. The following cell is a <strong>code</strong> cell. Just by selecting the cell and clicking <strong>run</strong> you can run the code inside the cell. Alternatively you can hit shift+enter to run the code.</p>
 
-<h3 id="exercises">Exercises</h3>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">import</span> <span class="nn">os</span>
+<span class="k">print</span> <span class="n">os</span><span class="o">.</span><span class="n">getcwd</span><span class="p">()</span>
+<span class="k">print</span> <span class="s">'Hello World!'</span>
+</code></pre></div></div>
 
-<p>It is strongly recommended that you first finish the above tutorials. For convenience you are expected to install Python version 2.7.x on your sytem. Since the walkthrough for the installation is platform specific, you should refer to the official <a href="https://www.python.org" target="blank">Python Website</a>. Once you’re sure that you installed the correct python version on your system CD to correspnding directory for MEE404 class you created by using whichever name you want to use. Here I preferred MEE404 for convenience.</p>
-<div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">cd </span>MEE404
-</code></pre></div></div>
-<p>It is very common to use virtual environments for specific tasks. It helps you to create and work on a virtual environment specifically tailored for one specific task. It includes a python instance and keeps the core installation isolated. This makes it possible to install and try different python packages without compromising the core installation. Running the following command will create a virtual environment hosted in <strong>venv</strong> directory. It is a common practice to name the directory as <strong>venv</strong>.</p>
+<p>You can call different libraries within the code. For this course we will be using pillow library which can be used simply as follows:</p>
 
-<div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code>virtualenv <span class="nt">--system-site-packages</span> venv
-</code></pre></div></div>
-<p>Once you create virtual instance you can work on it by simply running the following command in the terminal.</p>
-<div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">source </span>vev/bin/activate
-</code></pre></div></div>
-<p>In this class we will need <a href="https://pillow.readthedocs.io/en/latest/installation.html" target="blank">pillow</a> library which should be installed separately. You can use <strong>pip</strong> to install Pillow.</p>
-<div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code>pip <span class="nb">install </span>pillow
-</code></pre></div></div>
-<p>We will also extensively use matplotlib. If you dont have it installed on your system, you can also install it likewise.</p>
-<div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code>pip <span class="nb">install </span>matplotlib
-</code></pre></div></div>
-<p>The exercises will be in iPython Notebook format. Hence you will also need Jupyter Notebook installation. It is also straightforward to install Jupyter Notebook.</p>
-<div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code>pip <span class="nb">install </span>jupyter
-</code></pre></div></div>
-<p>See <a href="/tutorials/ipython-tutorial/" target="blank">iPython Tutorial</a> for further details. The exercises will be in the exercises folder of <a href="https://github.com/mee404/mee404.github.io" target="blank">this</a>  GitHub Repository. The repo will be updated regularly. To follow the updates visit this site occasionally. Assuming that you download the repo, just cd to the exercises directory and there run the following command.</p>
-<div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code>jupyter notebook
-</code></pre></div></div>
-<p>Once you run the above command it will start a local server where you can reach, view and run ipynb files easily. It is strongly recommended that you get ipython jupyter up and running, but alternatively you can reach the exercises as static pages from the following links as well.</p>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="n">np</span>
+<span class="kn">from</span> <span class="nn">PIL</span> <span class="kn">import</span> <span class="n">Image</span>
+<span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="n">plt</span>
 
-<ul>
-  <li><a href="/exercises/exercise00/" target="blank">EXERCISE 0</a></li>
-  <li><a href="/exercises/exercise01/" target="blank">EXERCISE 1</a></li>
-</ul>
+<span class="n">img</span> <span class="o">=</span> <span class="n">Image</span><span class="o">.</span><span class="nb">open</span><span class="p">(</span><span class="s">'lena.png'</span><span class="p">)</span>
+<span class="o">%</span><span class="n">matplotlib</span> <span class="n">inline</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">imshow</span><span class="p">(</span><span class="n">np</span><span class="o">.</span><span class="n">asarray</span><span class="p">(</span><span class="n">img</span><span class="p">))</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
+</code></pre></div></div>
+
+<p><img src="/exercises/exercise00_files/exercise00_3_0.png" alt="png" /></p>
+
+<p><strong>Matplotlib</strong> can be used to view pillow image files inline within a notebook cell. See the <strong><em>inline</em></strong> usage of matplotlib in the above cell. I is also possible to write reference mathematical equations within <strong>ipynb</strong> files.  Equations further can be numbered and referenced.Can be referenced with Equation \eqref{eq:deneme}</p>
+
+<script type="math/tex; mode=display">\begin{equation} 
+F = m a\label{eq:deneme} 
+\end{equation}</script>
+
 
       </div>
     </main>
