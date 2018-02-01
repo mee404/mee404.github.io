@@ -29,7 +29,7 @@ virtualenv --system-site-packages venv
 ```
 Once you create virtual instance you can work on it by simply running the following command in the terminal.
 ```sh
-source vev/bin/activate
+source venv/bin/activate
 ```
 In this class we will need [pillow](https://pillow.readthedocs.io/en/latest/installation.html){:target="blank"} library which should be installed separately. You can use **pip** to install Pillow.
 ```sh
@@ -49,5 +49,5 @@ jupyter notebook
 ```
 Once you run the above command it will start a local server where you can reach, view and run ipynb files easily. It is strongly recommended that you get ipython jupyter up and running, but alternatively you can reach the exercises as static pages from the following links as well.
 
-- [EXERCISE 0](/exercises/exercise00){:target="blank"} 
-- [EXERCISE 1](/exercises/exercise01){:target="blank"} 
+- [EXERCISE 0](/exercises/exercise00){:target="blank"}
+- [EXERCISE 1](/exercises/exercise01){:target="blank"}
