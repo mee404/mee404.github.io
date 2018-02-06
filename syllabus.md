@@ -11,7 +11,7 @@ permalink: /syllabus/
 #### Place : XXX
 #### Schedule : Friday, 9:30 - 12:15
 #### Lecturer : [Şükrü Ozan, Ph.D.](http://sukruozan.com){:target='blank'}
-#### E-mail : [ikcumee404@gmail.com](mailto:ikcumee404@gmail.com) _*(All e-mails regarding this course should be sent to this address!)*_
+#### E-mail : [ikcumee404@gmail.com](mailto:ikcumee404@gmail.com) _(All e-mails regarding this course should be sent to this address!)_
 
 # Course details
 ## Course Description
