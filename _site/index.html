@@ -53,24 +53,62 @@
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        <h3 id="latest-announcements">Latest Announcements</h3>
+        <h3 id="latest-announcements"><strong>Latest Announcements</strong></h3>
 <ul>
-  <li>Our first lecture will be on February 16th, 2018. See you at the class.</li>
+  <li>Today (on February 16th, 2018) we met for the first time with the majority of the students taking this course.</li>
+  <li>We did not cover a subject but we talked about the basic usages of Python and the methods about how one can interact with Python. There are three basic methods:
+    <ul>
+      <li>Bu simply using python terminal</li>
+      <li>Writing a python script and running it with python command</li>
+      <li>Jupyter Notebook</li>
+    </ul>
+  </li>
+  <li>See the homework given below. It will not be graded but you better perform the given tasks in this homework. Make sure that you finish homework before coming to next lecture</li>
+  <li>Next week we will start the course subjects.</li>
+  <li>I will start taking attendance. It is recommended that you don’t miss any class.</li>
 </ul>
 
-<h3 id="about-the-course">About the Course</h3>
+<h3 id="homework"><strong>HOMEWORK</strong></h3>
+
+<p>Your first homework will not be graded but it is very important for you to perform the given tasks below. Once you finish these tasks you will be ready to implement any task given as an exercise or as a homework.</p>
+
+<ul>
+  <li>Go and sign up for a <a href="https://github.com" target="blank">GitHub</a> account.</li>
+  <li>You can use <a href="https://atom.io" target="blank">Atom</a> for code editing. Atom is highly integrated with GitHub.</li>
+  <li>Clone the <a href="https://github.com/mee404/mee404.github.io" target="blank">course repo</a>  to your computer. If you regularly update the repo, you will be up-to-date and will have every necessary material and information about the course.</li>
+  <li>Follow the following tutorials. Not just read but also implement the example python codes.</li>
+  <li>Read the ‘Exercises’ section below. Perform the following given tasks:
+    <ul>
+      <li>Install Python version 2.7.x to your system</li>
+      <li>Make sure that you also have <strong>virtualenv</strong> and <strong>pip</strong> on your system.</li>
+      <li>Create a directory for the works related with this course.</li>
+      <li>Create virtual environment</li>
+      <li>By using pip install the following libraries:
+        <ul>
+          <li>Pillow</li>
+          <li>matplotlib</li>
+          <li>jupyter</li>
+        </ul>
+      </li>
+      <li>Run jupyter in the course folder you cloned from github.</li>
+      <li>Read and run <strong>Exercise 0</strong> and <strong>Exercise 1</strong></li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="about-the-course"><strong>About the Course</strong></h3>
 <ul>
   <li><a href="syllabus/" target="blank">Tentative Syllabus</a></li>
 </ul>
 
-<h3 id="tutorials">Tutorials</h3>
+<h3 id="tutorials"><strong>Tutorials</strong></h3>
 <ul>
   <li><a href="/tutorials/pillow-tutorial/" target="blank">Pillow Tutorial</a></li>
   <li><a href="/tutorials/python-numpy-tutorial/" target="blank">Python Numpy Tutorial</a></li>
   <li><a href="/tutorials/ipython-tutorial/" target="blank">iPython Tutorial</a></li>
 </ul>
 
-<h3 id="exercises">Exercises</h3>
+<h3 id="exercises"><strong>Exercises</strong></h3>
 
 <p>It is strongly recommended that you first finish the above tutorials. For convenience you are expected to install Python version 2.7.x on your sytem. Since the walkthrough for the installation is platform specific, you should refer to the official <a href="https://www.python.org" target="blank">Python Website</a>. Once you’re sure that you installed the correct python version on your system CD to correspnding directory for MEE404 class you created by using whichever name you want to use. Here I preferred MEE404 for convenience.</p>
 <div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">cd </span>MEE404
@@ -80,7 +118,7 @@
 <div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code>virtualenv <span class="nt">--system-site-packages</span> venv
 </code></pre></div></div>
 <p>Once you create virtual instance you can work on it by simply running the following command in the terminal.</p>
-<div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">source </span>vev/bin/activate
+<div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">source </span>venv/bin/activate
 </code></pre></div></div>
 <p>In this class we will need <a href="https://pillow.readthedocs.io/en/latest/installation.html" target="blank">pillow</a> library which should be installed separately. You can use <strong>pip</strong> to install Pillow.</p>
 <div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code>pip <span class="nb">install </span>pillow

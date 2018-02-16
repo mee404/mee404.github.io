@@ -5,18 +5,45 @@
 layout: default
 exclude: true
 ---
-### Latest Announcements
-- Our first lecture will be on February 16th, 2018. See you at the class.
+### **Latest Announcements**
+- Today (on February 16th, 2018) we met for the first time with the majority of the students taking this course.
+- We did not cover a subject but we talked about the basic usages of Python and the methods about how one can interact with Python. There are three basic methods:
+  - Bu simply using python terminal
+  - Writing a python script and running it with python command
+  - Jupyter Notebook
+- See the homework given below. It will not be graded but you better perform the given tasks in this homework. Make sure that you finish homework before coming to next lecture
+- Next week we will start the course subjects.
+- I will start taking attendance. It is recommended that you don't miss any class.
 
-### About the Course
+### **HOMEWORK**
+
+Your first homework will not be graded but it is very important for you to perform the given tasks below. Once you finish these tasks you will be ready to implement any task given as an exercise or as a homework.
+
+- Go and sign up for a [GitHub](https://github.com){:target="blank"} account.
+- You can use [Atom](https://atom.io){:target="blank"} for code editing. Atom is highly integrated with GitHub.
+- Clone the [course repo](https://github.com/mee404/mee404.github.io){:target="blank"}  to your computer. If you regularly update the repo, you will be up-to-date and will have every necessary material and information about the course.
+- Follow the following tutorials. Not just read but also implement the example python codes.
+- Read the 'Exercises' section below. Perform the following given tasks:
+  - Install Python version 2.7.x to your system
+  - Make sure that you also have **virtualenv** and **pip** on your system.
+  - Create a directory for the works related with this course.
+  - Create virtual environment
+  - By using pip install the following libraries:
+    - Pillow
+    - matplotlib
+    - jupyter
+  - Run jupyter in the course folder you cloned from github.
+  - Read and run **Exercise 0** and **Exercise 1**
+
+### **About the Course**
 - [Tentative Syllabus](syllabus/){:target="blank"}
 
-### Tutorials
+### **Tutorials**
 - [Pillow Tutorial](/tutorials/pillow-tutorial/){:target="blank"}
 - [Python Numpy Tutorial](/tutorials/python-numpy-tutorial/){:target="blank"}
 - [iPython Tutorial](/tutorials/ipython-tutorial/){:target="blank"}
 
-###  Exercises
+### **Exercises**
 
 It is strongly recommended that you first finish the above tutorials. For convenience you are expected to install Python version 2.7.x on your sytem. Since the walkthrough for the installation is platform specific, you should refer to the official [Python Website](https://www.python.org){:target="blank"}. Once you're sure that you installed the correct python version on your system CD to correspnding directory for MEE404 class you created by using whichever name you want to use. Here I preferred MEE404 for convenience.
 ```sh
