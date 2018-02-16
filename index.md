@@ -15,7 +15,7 @@ exclude: true
 - Next week we will start the course subjects.
 - I will start taking attendance. It is recommended that you don't miss any class.
 
-### **HOMEWORK**
+### **HOMEWORK00**
 
 Your first homework will not be graded but it is very important for you to perform the given tasks below. Once you finish these tasks you will be ready to implement any task given as an exercise or as a homework.
 
