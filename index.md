@@ -6,36 +6,24 @@ layout: default
 exclude: true
 ---
 ### **Latest Announcements**
-- Today (on February 16th, 2018) we met for the first time with the majority of the students taking this course.
-- We did not cover a subject but we talked about the basic usages of Python and the methods about how one can interact with Python. There are three basic methods:
-  - Bu simply using python terminal
-  - Writing a python script and running it with python command
-  - Jupyter Notebook
-- See the homework given below. It will not be graded but you better perform the given tasks in this homework. Make sure that you finish homework before coming to next lecture
-- Next week we will start the course subjects.
-- I will start taking attendance. It is recommended that you don't miss any class.
+- On 02.03.2018 we will have two sessions between 10:00 - 12:00 and 13:00 - 15:00.
+- You have a homework (HOMEWORK01) due **11.03.2018 23:59:59**
 
-### **HOMEWORK00**
+### **HOMEWORK**
+Due Date: **11.03.2018 23:59:59**
 
-Your first homework will not be graded but it is very important for you to perform the given tasks below. Once you finish these tasks you will be ready to implement any task given as an exercise or as a homework.
+Find the details of the homework and submission guideline in the following link:
 
-- Go and sign up for a [GitHub](https://github.com){:target="blank"} account.
-- You can use [Atom](https://atom.io){:target="blank"} for code editing. Atom is highly integrated with GitHub.
-- Clone the [course repo](https://github.com/mee404/mee404.github.io){:target="blank"}  to your computer. If you regularly update the repo, you will be up-to-date and will have every necessary material and information about the course.
-- Follow the following tutorials. Not just read but also implement the example python codes.
-- Read the 'Exercises' section below. Perform the following given tasks:
-  - Install Python version 2.7.x to your system
-  - Make sure that you also have **virtualenv** and **pip** on your system.
-  - Create a directory for the works related with this course.
-  - Create virtual environment
-  - By using pip install the following libraries:
-    - Pillow
-    - matplotlib
-    - jupyter
-  - Run jupyter in the course folder you cloned from github.
-  - Read and run **Exercise 0** and **Exercise 1**
+- [HOMEWORK 01](/homeworks/HOMEWORK01){:target="blank"}
+
+### **CLASS PRESENTATIONS**
+
+ - [WEEK 2](https://docs.google.com/presentation/d/1XHhVwM71nb9gcPWDWLu55vNbjqsRi6tqHLK2eKbo4hw/edit?usp=sharing){:target="blank"}
+ - [WEEK 1](https://docs.google.com/presentation/d/1d6ayhonXY4yacCzmG5Agm9LwzB_zbgRhjCfDPBQF5yQ/edit?usp=sharing){:target="blank"}
 
 ### **About the Course**
+
+- [Attendance and Grades](https://docs.google.com/spreadsheets/d/e/2PACX-1vTzWSFYwl88Ho8b1g-DZg9tzSbNYe97Qg-F9WxgcuMI0K-zNNv4BrYGlDIkyiK8NLa-uTZ3_bUKV2qv/pubhtml){:target="blank"}
 - [Tentative Syllabus](syllabus/){:target="blank"}
 
 ### **Tutorials**
