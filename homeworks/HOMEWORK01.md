@@ -9,7 +9,7 @@ permalink: /homeworks/HOMEWORK01
 {% include latex.html %}
 # HOMEWORK01
 
-Image resizing is a videly use operation in image processing. Either for scaling up and for scaling down we need interpolation to find corresponding pixel intensity in the resulting image. Choice of the interpolation method is so important that it directly increases or decreases the quality  of the resulting image.
+Image resizing is a widely use operation in image processing. Either for scaling up and for scaling down we need interpolation to find corresponding pixel intensity in the resulting image. Choice of the interpolation method is so important that it directly increases or decreases the quality  of the resulting image.
 
 Recalling the last lecture; we have seen three main interpolation methods:
 
@@ -24,7 +24,7 @@ If you look at [pillows reference page](http://pillow.readthedocs.io/en/3.1.x/re
  - PIL.Image.BICUBIC
  - PIL.Image.LANCZOS
 
-From which the first three is the methods we have seen in the lecture. LANCZOS is a more sophisticated method which gives better results compared to first three methods. If you're interested search the internet for more details on **LANCZOS Resampling Method**.
+From which the first three are the methods we have seen in the lecture. LANCZOS is a more sophisticated method which gives better results compared to first three methods. If you're interested search the internet for more details on **LANCZOS Resampling Method**.
 
 In this homework you will implement a jupyter notebook script and it will perform these operations:
 
@@ -34,7 +34,7 @@ In this homework you will implement a jupyter notebook script and it will perfor
  - The program will resize the grayscale lena image to its half size then resize it back to its original size by using **resize()** with PIL.Image.BILINEAR then display it inline and print the PSNR value wrt original image below the result image.
  - The program will resize the grayscale lena image to its half size then resize it back to its original size by using **resize()** with PIL.Image.BICUBIC then display it inline and print the PSNR value wrt original image below the result image.
 
-_PSNR (Peak signal to Noise Ratio):  PSNR is a metric which measures the difference between two images. We can define it as Equation \eqref{eq:PSNR}, where R is the maximum intensity observed in the source image. MSE is the meas square cumulative difference between the source and the target image._
+_PSNR (Peak signal to Noise Ratio):  PSNR is a metric which measures the difference between two images. We can define it as Equation \eqref{eq:PSNR}, where R is the maximum intensity observed in the source image. MSE is the mean square cumulative difference between the source and the target image._
 
 $$ \begin{equation}
 PSNR = 10 log_{10}(\frac{R^2}{MSE})\label{eq:PSNR}

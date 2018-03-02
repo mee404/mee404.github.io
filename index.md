@@ -6,7 +6,7 @@ layout: default
 exclude: true
 ---
 ### **Latest Announcements**
-- On 02.03.2018 we will have two sessions between 10:00 - 12:00 and 13:00 - 15:00.
+- On 09.03.2018 we will start at our usual time.
 - You have a homework (HOMEWORK01) due **11.03.2018 23:59:59**
 
 ### **HOMEWORK**
