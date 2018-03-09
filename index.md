@@ -6,7 +6,7 @@ layout: default
 exclude: true
 ---
 ### **Latest Announcements**
-- On 09.03.2018 we will start at our usual time.
+- See the latest class presentataions and class works below.
 - You have a homework (HOMEWORK01) due **11.03.2018 23:59:59**
 
 ### **HOMEWORK**
