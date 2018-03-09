@@ -18,10 +18,13 @@ Find the details of the homework and submission guideline in the following link:
 
 ### **CLASS PRESENTATIONS**
 
+ - [WEEK 3](https://drive.google.com/open?id=1iZ-yEh09PEy-h0Khh4qH7nFf7jzUyr_F3YuQ5BashGE/edit?usp=sharing){:target="blank"}
  - [WEEK 2](https://docs.google.com/presentation/d/1XHhVwM71nb9gcPWDWLu55vNbjqsRi6tqHLK2eKbo4hw/edit?usp=sharing){:target="blank"}
  - [WEEK 1](https://docs.google.com/presentation/d/1d6ayhonXY4yacCzmG5Agm9LwzB_zbgRhjCfDPBQF5yQ/edit?usp=sharing){:target="blank"}
 
 ### **CLASSWORKS (QUESTIONS SOLVED ON THE BOARD)**
+
+ - [Date: 09.03.2018](https://drive.google.com/open?id=1lQmjKo7FscsmqsX9Uc7S9fMJUmeGHzbY){:target="blank"}
  - [Date: 02.03.2018](https://drive.google.com/open?id=193KpiWfQ2tXtS9bOAM1cFE-h6nWnRMGZ){:target="blank"}
 
 ### **About the Course**
