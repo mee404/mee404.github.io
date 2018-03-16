@@ -8,7 +8,8 @@ exclude: true
 ### **Latest Announcements**
 - See the latest class presentations and class works below. I added another example question regarding the histogram equalization.
 - You have a homework (HOMEWORK02) due **26.03.2018 23:59:59**
-- Midterm Date-Time-Place: **06.04.2018 10:00 C1-05 **
+- Midterm Date-Time-Place: **06.04.2018 10\:00 C1\-05**
+
 ### **HOMEWORK**
 Due Date: **26.03.2018 23:59:59**
 
