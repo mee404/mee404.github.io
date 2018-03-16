@@ -6,11 +6,11 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>MEE404 - Machine Vision in Mechatronics</title>
+  <title>Tentative Sylabus</title>
   <meta name="description" content="Course materials and notes for IKC Universtiy class MEE404: Machine Vision in Mechatronics.">
 
   <link rel="stylesheet" href="/assets/main.css">
-  <link rel="canonical" href="http://localhost:4000/">
+  <link rel="canonical" href="http://localhost:4000/exercises/">
   <link rel="alternate" type="application/rss+xml" title="MEE404 - Machine Vision in Mechatronics" href="/feed.xml">
   
   
@@ -53,52 +53,35 @@
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        <h3 id="latest-announcements"><strong>Latest Announcements</strong></h3>
-<ul>
-  <li>See the latest class presentations and class works below. I added another example question regarding the histogram equalization.</li>
-  <li>You have a homework (HOMEWORK02) due <strong>26.03.2018 23:59:59</strong></li>
-  <li>Midterm Date-Time-Place: **06.04.2018 10:00 C1-05 **
-    <h3 id="homework"><strong>HOMEWORK</strong></h3>
-    <p>Due Date: <strong>26.03.2018 23:59:59</strong></p>
-  </li>
-</ul>
+        <h3 id="exercises"><strong>Exercises</strong></h3>
 
-<p>Find the details of the homework and submission guideline in the following link:</p>
+<p>It is strongly recommended that you first finish the above tutorials. For convenience you are expected to install Python version 2.7.x on your sytem. Since the walkthrough for the installation is platform specific, you should refer to the official <a href="https://www.python.org" target="blank">Python Website</a>. Once you’re sure that you installed the correct python version on your system CD to correspnding directory for MEE404 class you created by using whichever name you want to use. Here I preferred MEE404 for convenience.</p>
+<div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">cd </span>MEE404
+</code></pre></div></div>
+<p>It is very common to use virtual environments for specific tasks. It helps you to create and work on a virtual environment specifically tailored for one specific task. It includes a python instance and keeps the core installation isolated. This makes it possible to install and try different python packages without compromising the core installation. Running the following command will create a virtual environment hosted in <strong>venv</strong> directory. It is a common practice to name the directory as <strong>venv</strong>.</p>
 
-<ul>
-  <li><a href="/homeworks/HOMEWORK02" target="blank">HOMEWORK 02</a></li>
-</ul>
-
-<h3 id="class-presentations"><strong>CLASS PRESENTATIONS</strong></h3>
-
-<ul>
-  <li><a href="https://docs.google.com/presentation/d/12w9_QO7dg7-ADvn5we7vYU-Uzjt48swQdRb6mOjUQTg/edit?usp=sharing" target="blank">WEEK 4</a></li>
-  <li><a href="https://docs.google.com/presentation/d/1iZ-yEh09PEy-h0Khh4qH7nFf7jzUyr_F3YuQ5BashGE/edit?usp=sharing" target="blank">WEEK 3</a></li>
-  <li><a href="https://docs.google.com/presentation/d/1XHhVwM71nb9gcPWDWLu55vNbjqsRi6tqHLK2eKbo4hw/edit?usp=sharing" target="blank">WEEK 2</a></li>
-  <li><a href="https://docs.google.com/presentation/d/1d6ayhonXY4yacCzmG5Agm9LwzB_zbgRhjCfDPBQF5yQ/edit?usp=sharing" target="blank">WEEK 1</a></li>
-</ul>
-
-<h3 id="classworks-questions-solved-on-the-board"><strong>CLASSWORKS (QUESTIONS SOLVED ON THE BOARD)</strong></h3>
-
-<ul>
-  <li><a href="https://drive.google.com/open?id=1hWOHv3ck2Hwm_Na_WHRicD0-23o68Tvh" target="blank">Date: 16.03.2018</a></li>
-  <li><a href="https://drive.google.com/open?id=1lQmjKo7FscsmqsX9Uc7S9fMJUmeGHzbY" target="blank">Date: 09.03.2018</a></li>
-  <li><a href="https://drive.google.com/open?id=193KpiWfQ2tXtS9bOAM1cFE-h6nWnRMGZ" target="blank">Date: 02.03.2018</a></li>
-</ul>
-
-<h3 id="about-the-course"><strong>About the Course</strong></h3>
+<div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code>virtualenv <span class="nt">--system-site-packages</span> venv
+</code></pre></div></div>
+<p>Once you create virtual instance you can work on it by simply running the following command in the terminal.</p>
+<div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">source </span>venv/bin/activate
+</code></pre></div></div>
+<p>In this class we will need <a href="https://pillow.readthedocs.io/en/latest/installation.html" target="blank">pillow</a> library which should be installed separately. You can use <strong>pip</strong> to install Pillow.</p>
+<div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code>pip <span class="nb">install </span>pillow
+</code></pre></div></div>
+<p>We will also extensively use matplotlib. If you dont have it installed on your system, you can also install it likewise.</p>
+<div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code>pip <span class="nb">install </span>matplotlib
+</code></pre></div></div>
+<p>The exercises will be in iPython Notebook format. Hence you will also need Jupyter Notebook installation. It is also straightforward to install Jupyter Notebook.</p>
+<div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code>pip <span class="nb">install </span>jupyter
+</code></pre></div></div>
+<p>See <a href="/tutorials/ipython-tutorial/" target="blank">iPython Tutorial</a> for further details. The exercises will be in the exercises folder of <a href="https://github.com/mee404/mee404.github.io" target="blank">this</a>  GitHub Repository. The repo will be updated regularly. To follow the updates visit this site occasionally. Assuming that you download the repo, just cd to the exercises directory and there run the following command.</p>
+<div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code>jupyter notebook
+</code></pre></div></div>
+<p>Once you run the above command it will start a local server where you can reach, view and run ipynb files easily. It is strongly recommended that you get ipython jupyter up and running, but alternatively you can reach the exercises as static pages from the following links as well.</p>
 
 <ul>
-  <li><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTzWSFYwl88Ho8b1g-DZg9tzSbNYe97Qg-F9WxgcuMI0K-zNNv4BrYGlDIkyiK8NLa-uTZ3_bUKV2qv/pubhtml" target="blank">Attendance and Grades</a></li>
-  <li><a href="syllabus/" target="blank">Tentative Syllabus</a></li>
-  <li><a href="exercises/" target="blank">Exercises</a></li>
-</ul>
-
-<h3 id="tutorials"><strong>Tutorials</strong></h3>
-<ul>
-  <li><a href="/tutorials/pillow-tutorial/" target="blank">Pillow Tutorial</a></li>
-  <li><a href="/tutorials/python-numpy-tutorial/" target="blank">Python Numpy Tutorial</a></li>
-  <li><a href="/tutorials/ipython-tutorial/" target="blank">iPython Tutorial</a></li>
+  <li><a href="/exercises/exercise00" target="blank">EXERCISE 0</a></li>
+  <li><a href="/exercises/exercise01" target="blank">EXERCISE 1</a></li>
 </ul>
 
       </div>
