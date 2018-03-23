@@ -27,7 +27,6 @@ Find the details of the homework and submission guideline in the following link:
  - [WEEK 1](https://docs.google.com/presentation/d/1d6ayhonXY4yacCzmG5Agm9LwzB_zbgRhjCfDPBQF5yQ/edit?usp=sharing){:target="blank"}
 
 ### **CLASSWORKS (QUESTIONS SOLVED ON THE BOARD)**
-https://drive.google.com/open?id=1SJNfhk84yfg8L7SUJVj3du2oX4LlfJoz
 
  - [Date: 23.03.2018](https://drive.google.com/open?id=1SJNfhk84yfg8L7SUJVj3du2oX4LlfJoz){:target="blank"}
  - [Date: 16.03.2018](https://drive.google.com/open?id=1hWOHv3ck2Hwm_Na_WHRicD0-23o68Tvh){:target="blank"}
