@@ -7,19 +7,18 @@ title: MEE404 Course Page
 exclude: true
 ---
 ### **Latest Announcements**
-- See the latest class presentations and class works below.
-- You have a homework (HOMEWORK02) due **26.03.2018 23:59:59**
+[comment]: # - See the latest class presentations and class works below.
+[comment]: # - You have a homework (HOMEWORK02) due **26.03.2018 23:59:59**
 - Midterm Date-Time-Place: **06.04.2018 10\:00 C1\-05**
 
-### **HOMEWORK**
-Due Date: **26.03.2018 23:59:59**
-
-Find the details of the homework and submission guideline in the following link:
-
-- [HOMEWORK 02](/homeworks/HOMEWORK02){:target="blank"}
+[comment]: #  **HOMEWORK**
+[comment]: #  Due Date: **26.03.2018 23:59:59**
+[comment]: # Find the details of the homework and submission guideline in the following link:
+[comment]: # - [HOMEWORK 02](/homeworks/HOMEWORK02){:target="blank"}
 
 ### **CLASS PRESENTATIONS**
 
+ - [WEEK 6](https://docs.google.com/presentation/d/1ahf_F6Y7g_cVgvPp5LpU4Z3vxOsV6yTTeTfIwmSx3Us/edit?usp=sharing){:target="blank"}
  - [WEEK 5](https://docs.google.com/presentation/d/16MV0GseLrhODfKIikTlRQGyF9D97YZxpYmwlm1zcXBA/edit?usp=sharing){:target="blank"}
  - [WEEK 4](https://docs.google.com/presentation/d/12w9_QO7dg7-ADvn5we7vYU-Uzjt48swQdRb6mOjUQTg/edit?usp=sharing){:target="blank"}
  - [WEEK 3](https://docs.google.com/presentation/d/1iZ-yEh09PEy-h0Khh4qH7nFf7jzUyr_F3YuQ5BashGE/edit?usp=sharing){:target="blank"}
@@ -28,6 +27,7 @@ Find the details of the homework and submission guideline in the following link:
 
 ### **CLASSWORKS (QUESTIONS SOLVED ON THE BOARD)**
 
+ - [Date: 30.03.2018](https://drive.google.com/open?id=1c-_Ub2G8KUNHdM3DM_R5xxhvk2yPuVEq){:target="blank"}
  - [Date: 23.03.2018](https://drive.google.com/open?id=1SJNfhk84yfg8L7SUJVj3du2oX4LlfJoz){:target="blank"}
  - [Date: 16.03.2018](https://drive.google.com/open?id=1hWOHv3ck2Hwm_Na_WHRicD0-23o68Tvh){:target="blank"}
  - [Date: 09.03.2018](https://drive.google.com/open?id=1lQmjKo7FscsmqsX9Uc7S9fMJUmeGHzbY){:target="blank"}
