@@ -8,13 +8,13 @@ exclude: true
 ---
 ### **Latest Announcements**
 [comment]: # - See the latest class presentations and class works below.
-[comment]: # - You have a homework (HOMEWORK02) due **26.03.2018 23:59:59**
+- You have a homework (HOMEWORK03) due **16.04.2018 23:59:59**
 - Midterm Date-Time-Place: **06.04.2018 10\:00 C1\-05**
 
-[comment]: #  **HOMEWORK**
-[comment]: #  Due Date: **26.03.2018 23:59:59**
-[comment]: # Find the details of the homework and submission guideline in the following link:
-[comment]: # - [HOMEWORK 02](/homeworks/HOMEWORK02){:target="blank"}
+**HOMEWORK**
+Due Date: **16.04.2018 23:59:59**
+Find the details of the homework and submission guideline in the following link:
+- [HOMEWORK 03](/homeworks/HOMEWORK03){:target="blank"}
 
 ### **CLASS PRESENTATIONS**
 
