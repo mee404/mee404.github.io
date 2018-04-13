@@ -7,9 +7,9 @@ title: MEE404 Course Page
 exclude: true
 ---
 ### **Latest Announcements**
-[comment]: # - See the latest class presentations and class works below.
-- You have a homework (HOMEWORK03) due **16.04.2018 23:59:59**
-- Midterm Date-Time-Place: **06.04.2018 10\:00 C1\-05**
+- See the updated Attandance and Grades table.
+- See the latest class presentations and class works below.
+- [See the midterm solutions](https://drive.google.com/file/d/102AjPuqAYXIS4vyk4Ej_Kjok7L549bzc/view?usp=sharing){:target="blank"}
 
 **HOMEWORK**
 Due Date: **16.04.2018 23:59:59**
@@ -18,6 +18,7 @@ Find the details of the homework and submission guideline in the following link:
 
 ### **CLASS PRESENTATIONS**
 
+ - [WEEK 7](https://docs.google.com/presentation/d/19gbYiVLDbyiZVIFpjdIJnIyTLJ9NCptInhGj6Mgp5rg/edit?usp=sharing){:target="blank"}
  - [WEEK 6](https://docs.google.com/presentation/d/1ahf_F6Y7g_cVgvPp5LpU4Z3vxOsV6yTTeTfIwmSx3Us/edit?usp=sharing){:target="blank"}
  - [WEEK 5](https://docs.google.com/presentation/d/16MV0GseLrhODfKIikTlRQGyF9D97YZxpYmwlm1zcXBA/edit?usp=sharing){:target="blank"}
  - [WEEK 4](https://docs.google.com/presentation/d/12w9_QO7dg7-ADvn5we7vYU-Uzjt48swQdRb6mOjUQTg/edit?usp=sharing){:target="blank"}
@@ -27,6 +28,7 @@ Find the details of the homework and submission guideline in the following link:
 
 ### **CLASSWORKS (QUESTIONS SOLVED ON THE BOARD)**
 
+ - [Date: 13.04.2018](https://drive.google.com/open?id=1toi4flEar6ZUNZZ1Hud1Habx5sYvpWI0){:target="blank"}
  - [Date: 30.03.2018](https://drive.google.com/open?id=1c-_Ub2G8KUNHdM3DM_R5xxhvk2yPuVEq){:target="blank"}
  - [Date: 23.03.2018](https://drive.google.com/open?id=1SJNfhk84yfg8L7SUJVj3du2oX4LlfJoz){:target="blank"}
  - [Date: 16.03.2018](https://drive.google.com/open?id=1hWOHv3ck2Hwm_Na_WHRicD0-23o68Tvh){:target="blank"}
