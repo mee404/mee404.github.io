@@ -19,6 +19,7 @@ Find the details of the homework  in the following link:
 
 ### **CLASS PRESENTATIONS**
 
+ - [WEEK 8](https://docs.google.com/presentation/d/1nQqQ9WhlwPBCdJtqCTEgrUqVVqfrJ0Vl5Y9NJVb-PRo/edit?usp=sharing){:target="blank"}
  - [WEEK 7](https://docs.google.com/presentation/d/19gbYiVLDbyiZVIFpjdIJnIyTLJ9NCptInhGj6Mgp5rg/edit?usp=sharing){:target="blank"}
  - [WEEK 6](https://docs.google.com/presentation/d/1ahf_F6Y7g_cVgvPp5LpU4Z3vxOsV6yTTeTfIwmSx3Us/edit?usp=sharing){:target="blank"}
  - [WEEK 5](https://docs.google.com/presentation/d/16MV0GseLrhODfKIikTlRQGyF9D97YZxpYmwlm1zcXBA/edit?usp=sharing){:target="blank"}
@@ -29,6 +30,7 @@ Find the details of the homework  in the following link:
 
 ### **CLASSWORKS (QUESTIONS SOLVED ON THE BOARD)**
 
+ - [Date: 20.04.2018](https://drive.google.com/open?id=1wjXSfFEJw2nq_fsqz7_cDg5y7N8ne1FI){:target="blank"}
  - [Date: 13.04.2018](https://drive.google.com/open?id=1toi4flEar6ZUNZZ1Hud1Habx5sYvpWI0){:target="blank"}
  - [Date: 30.03.2018](https://drive.google.com/open?id=1c-_Ub2G8KUNHdM3DM_R5xxhvk2yPuVEq){:target="blank"}
  - [Date: 23.03.2018](https://drive.google.com/open?id=1SJNfhk84yfg8L7SUJVj3du2oX4LlfJoz){:target="blank"}
