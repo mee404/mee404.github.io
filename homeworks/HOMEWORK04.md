@@ -12,7 +12,7 @@ permalink: /homeworks/HOMEWORK04
 
 * Explain 1D Discrete Fourier Transform in your own words.
 * Implement your own Discrete Fourier Transformation function.
-* Create a random array with numpy.random.rand() function this will be your $$f[n]$$
+* Create a random array of size 10 with numpy.random.rand() function this will be your $$f[n]$$
 * Find DFT of $$f[n]$$ by using your function this will be your $$F[m]$$
 * Also use numpy.fft.fft() function to find $$F[m]$$
 * Plot $$f[n]$$ , $$F[m]$$ you found by using your  DFT implementation and $$F[m]$$ you found by using numpy.fft.fft.\(\) side by side.
@@ -26,7 +26,7 @@ The result should look like the following, your implementation and numpy fft fun
 
 * Compare the performance of your function with fft function from numpy library. And plot a graph showing this comparison.
 * Your criteria will be the time ellapsed.
-* x axis will be the number of elements in $f[n]$
+* x axis will be the number of elements in $$f[n]$$
 * y axis will be the time ellapsed.
 * Test for 10,20,30,40,....,190,200 elements
 * You can measure time by using pythons time library.
