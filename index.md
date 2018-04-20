@@ -7,14 +7,15 @@ title: MEE404 Course Page
 exclude: true
 ---
 ### **Latest Announcements**
+- You have a new homework with deadline 30.04.2018
 - See the updated Attandance and Grades table.
 - See the latest class presentations and class works below.
 - [See the midterm solutions](https://drive.google.com/file/d/102AjPuqAYXIS4vyk4Ej_Kjok7L549bzc/view?usp=sharing){:target="blank"}
 
 **HOMEWORK**
-Due Date: **16.04.2018 23:59:59**
-Find the details of the homework and submission guideline in the following link:
-- [HOMEWORK 03](/homeworks/HOMEWORK03){:target="blank"}
+Due Date: **30.04.2018 23:59:59**
+Find the details of the homework  in the following link:
+- [HOMEWORK 04](/homeworks/HOMEWORK04){:target="blank"}
 
 ### **CLASS PRESENTATIONS**
 
