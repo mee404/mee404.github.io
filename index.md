@@ -7,17 +7,19 @@ title: MEE404 Course Page
 exclude: true
 ---
 ### **Latest Announcements**
-- You have a new homework with deadline 30.04.2018
-- See the updated Attandance and Grades table.
 - See the latest class presentations and class works below.
+
+<!--
 - [See the midterm solutions](https://drive.google.com/file/d/102AjPuqAYXIS4vyk4Ej_Kjok7L549bzc/view?usp=sharing){:target="blank"}
 
 **HOMEWORK**
 Due Date: **30.04.2018 23:59:59**
 Find the details of the homework  in the following link:
 - [HOMEWORK 04](/homeworks/HOMEWORK04){:target="blank"}
+-->
 
 ### **CLASS PRESENTATIONS**
+ - [WEEK 10](https://docs.google.com/presentation/d/1SFAl9Z5rY-Cf5jns3iaiO_cagBDwl5oyVLUzYIS5Qio/edit?usp=sharing){:target="blank"}
  - [WEEK 9](https://docs.google.com/presentation/d/1qocJ0Q_x_OzRl86uPJJwREETMDUenDOiG9G4yoDpN4Q/edit?usp=sharing){:target="blank"}
  - [WEEK 8](https://docs.google.com/presentation/d/1nQqQ9WhlwPBCdJtqCTEgrUqVVqfrJ0Vl5Y9NJVb-PRo/edit?usp=sharing){:target="blank"}
  - [WEEK 7](https://docs.google.com/presentation/d/19gbYiVLDbyiZVIFpjdIJnIyTLJ9NCptInhGj6Mgp5rg/edit?usp=sharing){:target="blank"}
@@ -29,7 +31,7 @@ Find the details of the homework  in the following link:
  - [WEEK 1](https://docs.google.com/presentation/d/1d6ayhonXY4yacCzmG5Agm9LwzB_zbgRhjCfDPBQF5yQ/edit?usp=sharing){:target="blank"}
 
 ### **CLASSWORKS (QUESTIONS SOLVED ON THE BOARD)**
-
+ - [Date: 04.05.2018](https://drive.google.com/open?id=1ixc9iUkJi4LKBbgSozk4d4B83BOaXBjL){:target="blank"}
  - [Date: 20.04.2018](https://drive.google.com/open?id=1wjXSfFEJw2nq_fsqz7_cDg5y7N8ne1FI){:target="blank"}
  - [Date: 13.04.2018](https://drive.google.com/open?id=1toi4flEar6ZUNZZ1Hud1Habx5sYvpWI0){:target="blank"}
  - [Date: 30.03.2018](https://drive.google.com/open?id=1c-_Ub2G8KUNHdM3DM_R5xxhvk2yPuVEq){:target="blank"}
