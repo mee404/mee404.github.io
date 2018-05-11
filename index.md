@@ -32,6 +32,8 @@ Find the details of the homework  in the following link:
  - [WEEK 1](https://docs.google.com/presentation/d/1d6ayhonXY4yacCzmG5Agm9LwzB_zbgRhjCfDPBQF5yQ/edit?usp=sharing){:target="blank"}
 
 ### **CLASSWORKS (QUESTIONS SOLVED ON THE BOARD)**
+
+ - [Date: 04.05.2018](https://drive.google.com/open?id=1H0Bb6eGf0pSE2e3akZDuHOHpphqzdhl8){:target="blank"}
  - [Date: 04.05.2018](https://drive.google.com/open?id=1ixc9iUkJi4LKBbgSozk4d4B83BOaXBjL){:target="blank"}
  - [Date: 20.04.2018](https://drive.google.com/open?id=1wjXSfFEJw2nq_fsqz7_cDg5y7N8ne1FI){:target="blank"}
  - [Date: 13.04.2018](https://drive.google.com/open?id=1toi4flEar6ZUNZZ1Hud1Habx5sYvpWI0){:target="blank"}
