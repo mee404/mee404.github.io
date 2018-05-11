@@ -19,6 +19,7 @@ Find the details of the homework  in the following link:
 
 
 ### **CLASS PRESENTATIONS**
+ - [WEEK 11](https://docs.google.com/presentation/d/1BlJQrYQ6UGPk2Ee8fX2cxVjREukLN_x44j0UeLqjjFA/edit?usp=sharing){:target="blank"}
  - [WEEK 10](https://docs.google.com/presentation/d/1SFAl9Z5rY-Cf5jns3iaiO_cagBDwl5oyVLUzYIS5Qio/edit?usp=sharing){:target="blank"}
  - [WEEK 9](https://docs.google.com/presentation/d/1qocJ0Q_x_OzRl86uPJJwREETMDUenDOiG9G4yoDpN4Q/edit?usp=sharing){:target="blank"}
  - [WEEK 8](https://docs.google.com/presentation/d/1nQqQ9WhlwPBCdJtqCTEgrUqVVqfrJ0Vl5Y9NJVb-PRo/edit?usp=sharing){:target="blank"}
