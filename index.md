@@ -11,12 +11,12 @@ exclude: true
 
 <!--
 - [See the midterm solutions](https://drive.google.com/file/d/102AjPuqAYXIS4vyk4Ej_Kjok7L549bzc/view?usp=sharing){:target="blank"}
-
-**HOMEWORK**
-Due Date: **30.04.2018 23:59:59**
-Find the details of the homework  in the following link:
-- [HOMEWORK 04](/homeworks/HOMEWORK04){:target="blank"}
 -->
+**HOMEWORK**
+Due Date: **31.05.2018 23:59:59**
+Find the details of the homework  in the following link:
+- [HOMEWORK 05](/homeworks/HOMEWORK05){:target="blank"}
+
 
 ### **CLASS PRESENTATIONS**
  - [WEEK 10](https://docs.google.com/presentation/d/1SFAl9Z5rY-Cf5jns3iaiO_cagBDwl5oyVLUzYIS5Qio/edit?usp=sharing){:target="blank"}
