@@ -7,12 +7,14 @@ title: MEE404 Course Page
 exclude: true
 ---
 ### **Latest Announcements**
+- See your last homework project below.
 - See the latest class presentations and class works below.
 
 <!--
 - [See the midterm solutions](https://drive.google.com/file/d/102AjPuqAYXIS4vyk4Ej_Kjok7L549bzc/view?usp=sharing){:target="blank"}
 -->
-**HOMEWORK**
+### **HOMEWORK**
+
 Due Date: **31.05.2018 23:59:59**
 Find the details of the homework  in the following link:
 - [HOMEWORK 05](/homeworks/HOMEWORK05){:target="blank"}
