@@ -7,8 +7,8 @@ title: MEE404 Course Page
 exclude: true
 ---
 ### **Latest Announcements**
+- See the new class presentation and tiny class work (of week 12) below
 - See your last homework project below.
-- See the latest class presentations and class works below.
 
 <!--
 - [See the midterm solutions](https://drive.google.com/file/d/102AjPuqAYXIS4vyk4Ej_Kjok7L549bzc/view?usp=sharing){:target="blank"}
@@ -21,6 +21,8 @@ Find the details of the homework  in the following link:
 
 
 ### **CLASS PRESENTATIONS**
+
+ - [WEEK 12](https://docs.google.com/presentation/d/17RfhF9mcgYXigD0xy94NCVhxvm1s4WYWQ_fhdL0bWzo/edit?usp=sharing){:target="blank"}
  - [WEEK 11](https://docs.google.com/presentation/d/1BlJQrYQ6UGPk2Ee8fX2cxVjREukLN_x44j0UeLqjjFA/edit?usp=sharing){:target="blank"}
  - [WEEK 10](https://docs.google.com/presentation/d/1SFAl9Z5rY-Cf5jns3iaiO_cagBDwl5oyVLUzYIS5Qio/edit?usp=sharing){:target="blank"}
  - [WEEK 9](https://docs.google.com/presentation/d/1qocJ0Q_x_OzRl86uPJJwREETMDUenDOiG9G4yoDpN4Q/edit?usp=sharing){:target="blank"}
@@ -35,7 +37,7 @@ Find the details of the homework  in the following link:
 
 ### **CLASSWORKS (QUESTIONS SOLVED ON THE BOARD)**
 
-
+ - [Date: 18.05.2018](https://drive.google.com/open?id=1iHbr25RSs0wNeCN6ngazH68yfwoSqo4j){:target="blank"}
  - [Date: 11.05.2018](https://drive.google.com/open?id=1H0Bb6eGf0pSE2e3akZDuHOHpphqzdhl8){:target="blank"}
  - [Date: 04.05.2018](https://drive.google.com/open?id=1ixc9iUkJi4LKBbgSozk4d4B83BOaXBjL){:target="blank"}
  - [Date: 20.04.2018](https://drive.google.com/open?id=1wjXSfFEJw2nq_fsqz7_cDg5y7N8ne1FI){:target="blank"}
