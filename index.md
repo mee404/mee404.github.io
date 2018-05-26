@@ -19,7 +19,6 @@ Due Date: **31.05.2018 23:59:59**
 Find the details of the homework  in the following link:
 - [HOMEWORK 05](/homeworks/HOMEWORK05){:target="blank"}
 
-
 ### **CLASS PRESENTATIONS**
 
  - [WEEK 12](https://docs.google.com/presentation/d/17RfhF9mcgYXigD0xy94NCVhxvm1s4WYWQ_fhdL0bWzo/edit?usp=sharing){:target="blank"}

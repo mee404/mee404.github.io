@@ -27,3 +27,17 @@ Rafael C. Gonzalez, Richard E. Woods, “Digital Image Processing” (3rd Editio
 - Projects&Homeworks (30%)
 
  Exams Midterm and final make-up exams will be harder than the actual exams. You are not recommended to take medical report unless you have a real excuse. You will be assigned several python programming assignments in which you will apply basic image processing techniques covered in the class. You may also be assigned several problem solving type assignments. Deadline for homework submissions is 23:59 pm at the specified date. No tolerance for late submissions. Detailed information about homework submission will be announced separately.
+
+## Tentative Syllabus
+
+ - **Week 1:**   Digital Image Fundamentals 1
+ - **Week 2:**   Interpolation
+ - **Week 3:**   Distance & Mathematical Tools & Image Enhancement & Point Processing & Intensity Transformations
+ - **Week 4:**   Intensity Transformations & Histogram Processing
+ - **Week 5:**   Local Histogram Equalization & Histogram Statistics
+ - **Week 6:**   Spatial Filtering
+ - **Week 7:**   Frequency Domain & Fourier Transform & Discrete Fourier Transform
+ - **Week 8:**   DFT &  2D DFT
+ - **Week 9:**   Frequency Domain Filtering & Image Restoration
+ - **Week 10:**  Image Restoration & Color & Image Compression
+ - **Week 11:**  Morphological Operations
