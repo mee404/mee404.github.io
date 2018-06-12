@@ -7,17 +7,17 @@ title: MEE404 Course Page
 exclude: true
 ---
 ### **Latest Announcements**
-- See the new class presentation and tiny class work (of week 12) below
-- See your last homework project below.
+- Check your grade letter at UBS
+- [See the midterm solutions](https://drive.google.com/file/d/1_h3w2GOjneAQ2Cgbh2YsGcl5qtx2jP0V/view?usp=sharing){:target="blank"}
 
 <!--
-- [See the midterm solutions](https://drive.google.com/file/d/102AjPuqAYXIS4vyk4Ej_Kjok7L549bzc/view?usp=sharing){:target="blank"}
--->
 ### **HOMEWORK**
 
 Due Date: **31.05.2018 23:59:59**
 Find the details of the homework  in the following link:
 - [HOMEWORK 05](/homeworks/HOMEWORK05){:target="blank"}
+-->
+
 
 ### **CLASS PRESENTATIONS**
 
