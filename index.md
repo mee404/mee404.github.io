@@ -8,7 +8,8 @@ exclude: true
 ---
 ### **Latest Announcements**
 - Check your grade letter at UBS
-- [See the midterm solutions](https://drive.google.com/file/d/1_h3w2GOjneAQ2Cgbh2YsGcl5qtx2jP0V/view?usp=sharing){:target="blank"}
+- [See the final solutions](https://drive.google.com/file/d/1_h3w2GOjneAQ2Cgbh2YsGcl5qtx2jP0V/view?usp=sharing){:target="blank"}
+- Make Up Exam will be on 22.06.2018
 
 <!--
 ### **HOMEWORK**
