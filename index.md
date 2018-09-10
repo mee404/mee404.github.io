@@ -6,22 +6,38 @@ layout: default
 title: MEE404 Course Page
 exclude: true
 ---
-### **Latest Announcements**
+
+### **About the Course**
+
+- [Attendance and Grades](https://docs.google.com/spreadsheets/d/e/2PACX-1vTzWSFYwl88Ho8b1g-DZg9tzSbNYe97Qg-F9WxgcuMI0K-zNNv4BrYGlDIkyiK8NLa-uTZ3_bUKV2qv/pubhtml){:target="blank"}
+- [Tentative Syllabus](syllabus/){:target="blank"}
+- [Exercises](exercises/){:target="blank"}
+
+
+### **Tutorials**
+
+- [Pillow Tutorial](/tutorials/pillow-tutorial/){:target="blank"}
+- [Python Numpy Tutorial](/tutorials/python-numpy-tutorial/){:target="blank"}
+- [iPython Tutorial](/tutorials/ipython-tutorial/){:target="blank"}
+
 
 <!--
+### **Latest Announcements**
+
 - Check your grade letter at UBS
 - [See the final solutions](https://drive.google.com/file/d/1_h3w2GOjneAQ2Cgbh2YsGcl5qtx2jP0V/view?usp=sharing){:target="blank"}
 - Make Up Exam will be on 22.06.2018
+-->
 
-
+<!--
 ### **HOMEWORK**
 
 Due Date: **31.05.2018 23:59:59**
 Find the details of the homework  in the following link:
 - [HOMEWORK 05](/homeworks/HOMEWORK05){:target="blank"}
+-->
 
-
-
+<!--
 ### **CLASS PRESENTATIONS**
 
  - [WEEK 12](https://docs.google.com/presentation/d/17RfhF9mcgYXigD0xy94NCVhxvm1s4WYWQ_fhdL0bWzo/edit?usp=sharing){:target="blank"}
@@ -36,7 +52,8 @@ Find the details of the homework  in the following link:
  - [WEEK 3](https://docs.google.com/presentation/d/1iZ-yEh09PEy-h0Khh4qH7nFf7jzUyr_F3YuQ5BashGE/edit?usp=sharing){:target="blank"}
  - [WEEK 2](https://docs.google.com/presentation/d/1XHhVwM71nb9gcPWDWLu55vNbjqsRi6tqHLK2eKbo4hw/edit?usp=sharing){:target="blank"}
  - [WEEK 1](https://docs.google.com/presentation/d/1d6ayhonXY4yacCzmG5Agm9LwzB_zbgRhjCfDPBQF5yQ/edit?usp=sharing){:target="blank"}
-
+-->
+<!--
 ### **CLASSWORKS (QUESTIONS SOLVED ON THE BOARD)**
 
  - [Date: 18.05.2018](https://drive.google.com/open?id=1iHbr25RSs0wNeCN6ngazH68yfwoSqo4j){:target="blank"}
@@ -49,15 +66,5 @@ Find the details of the homework  in the following link:
  - [Date: 16.03.2018](https://drive.google.com/open?id=1hWOHv3ck2Hwm_Na_WHRicD0-23o68Tvh){:target="blank"}
  - [Date: 09.03.2018](https://drive.google.com/open?id=1lQmjKo7FscsmqsX9Uc7S9fMJUmeGHzbY){:target="blank"}
  - [Date: 02.03.2018](https://drive.google.com/open?id=193KpiWfQ2tXtS9bOAM1cFE-h6nWnRMGZ){:target="blank"}
-
-### **About the Course**
-
-- [Attendance and Grades](https://docs.google.com/spreadsheets/d/e/2PACX-1vTzWSFYwl88Ho8b1g-DZg9tzSbNYe97Qg-F9WxgcuMI0K-zNNv4BrYGlDIkyiK8NLa-uTZ3_bUKV2qv/pubhtml){:target="blank"}
-- [Tentative Syllabus](syllabus/){:target="blank"}
-- [Exercises](exercises/){:target="blank"}
-
 -->
-### **Tutorials**
-- [Pillow Tutorial](/tutorials/pillow-tutorial/){:target="blank"}
-- [Python Numpy Tutorial](/tutorials/python-numpy-tutorial/){:target="blank"}
-- [iPython Tutorial](/tutorials/ipython-tutorial/){:target="blank"}
+
