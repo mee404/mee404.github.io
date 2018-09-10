@@ -7,17 +7,19 @@ title: MEE404 Course Page
 exclude: true
 ---
 ### **Latest Announcements**
+
+<!--
 - Check your grade letter at UBS
 - [See the final solutions](https://drive.google.com/file/d/1_h3w2GOjneAQ2Cgbh2YsGcl5qtx2jP0V/view?usp=sharing){:target="blank"}
 - Make Up Exam will be on 22.06.2018
 
-<!--
+
 ### **HOMEWORK**
 
 Due Date: **31.05.2018 23:59:59**
 Find the details of the homework  in the following link:
 - [HOMEWORK 05](/homeworks/HOMEWORK05){:target="blank"}
--->
+
 
 
 ### **CLASS PRESENTATIONS**
@@ -54,6 +56,7 @@ Find the details of the homework  in the following link:
 - [Tentative Syllabus](syllabus/){:target="blank"}
 - [Exercises](exercises/){:target="blank"}
 
+-->
 ### **Tutorials**
 - [Pillow Tutorial](/tutorials/pillow-tutorial/){:target="blank"}
 - [Python Numpy Tutorial](/tutorials/python-numpy-tutorial/){:target="blank"}
