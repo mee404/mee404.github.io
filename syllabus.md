@@ -8,25 +8,30 @@ permalink: /syllabus/
 ---
 #### Course Title : Machine Vision in Mechatronics
 #### Course Code : MEE404
-#### Place : C1 - 05
+#### Place : _will be announced_
 #### Schedule : Friday, 10:00 - 12:15
 #### Lecturer : [Şükrü Ozan, Ph.D.](http://sukruozan.com){:target='blank'}
 #### E-mail : [ikcumee404@gmail.com](mailto:ikcumee404@gmail.com) _(All e-mails regarding this course should be sent to this address!)_
 
 # Course details
+
+The syllabus information listed here is tentative. Hence, often check the website for announcements etc.
+
 ## Course Description
 
-The aim of this course is to provide an introduction to image processing. The course demonstrates the low and mid-level vision techniques such as filtering in the spatial and frequency domain, image enhancement, edge detection, image segmentation, image compression and their applications. We will not stick with a unique text book, but it is recommended to have the book below if you are interested in image processing literature.
+The aim of this course is to provide an introduction to image processing. The course demonstrates the low and mid-level vision techniques such as filtering in the spatial and frequency domain, image enhancement, edge detection, image segmentation, image compression and their applications. We will not stick with a unique text book, but it is recommended to have the book below in your library,  if you are interested in image processing literature.
 
 ## Text Book
 Rafael C. Gonzalez, Richard E. Woods, “Digital Image Processing” (3rd Edition) Publisher: Pearson, 2008, ISBN 10: 013168728X, ISBN 13: 978-0131687288
 
-## Grading Scheme
-- Final (40%)
-- Midterm (30%)
-- Projects&Homeworks (30%)
+This year I am planning to follow the below grading scheme:
 
- Exams Midterm and final make-up exams will be harder than the actual exams. You are not recommended to take medical report unless you have a real excuse. You will be assigned several python programming assignments in which you will apply basic image processing techniques covered in the class. You may also be assigned several problem solving type assignments. Deadline for homework submissions is 23:59 pm at the specified date. No tolerance for late submissions. Detailed information about homework submission will be announced separately.
+## Grading Scheme
+- Final (50%)
+- Midterm (35%)
+- Homeworks (15%)
+
+In the previous years I preferred giving a 30% weight for homeworks and wasn't asking direct programming questions in the exams. This year I am planning to halve the weight of the homeworks and will be asking programming questions, which are directly related with the homeworks, in both the midterm and final exam. Hence I strongly recommend you to do your best on Python homeworks and grasp the usage of corresponding libraries, namely pillow numpy and matplotlib. Detailed information about homework submission will be announced separately.
 
 ## Tentative Syllabus
 
