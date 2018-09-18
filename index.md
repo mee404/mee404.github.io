@@ -6,13 +6,21 @@ layout: default
 title: MEE404 Course Page
 exclude: true
 ---
+
+This is the homepage for our course. Visit this page frequently to see the announcements and other things related with the course.
+
 ### **Latest Announcements**
+
 **For Old (2017-2018 spring semester) students:**
+
 - Make Up exam results ,  results will be announced untill Friday, 21.09.2018.
+
 **For New (2018-2019 fall semester) students:**
+
 - This year the course will be held in the fall semester.
 - At the first lecture date, 28.09.2018, I will be out of town for [a conference](http://idap.inonu.edu.tr). Hence, there will be no lecture on that day.
 - There will be a lecture on 05.10.2018. See syllabus page for course place and schedule.
+
 ### **About the Course**
 
 <!-- - [Attendance and Grades](https://docs.google.com/spreadsheets/d/e/2PACX-1vTzWSFYwl88Ho8b1g-DZg9tzSbNYe97Qg-F9WxgcuMI0K-zNNv4BrYGlDIkyiK8NLa-uTZ3_bUKV2qv/pubhtml){:target="blank"} -->

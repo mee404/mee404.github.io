@@ -8,7 +8,7 @@ permalink: /syllabus/
 ---
 #### Course Title : Machine Vision in Mechatronics
 #### Course Code : MEE404
-#### Place : _will be announced_
+#### Place : _will be announced later_
 #### Schedule : Friday, 10:00 - 12:15
 #### Lecturer : [Şükrü Ozan, Ph.D.](http://sukruozan.com){:target='blank'}
 #### E-mail : [ikcumee404@gmail.com](mailto:ikcumee404@gmail.com) _(All e-mails regarding this course should be sent to this address!)_
