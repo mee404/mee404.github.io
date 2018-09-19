@@ -51,7 +51,7 @@ See [iPython Tutorial](/tutorials/ipython-tutorial/){:target="blank"} for furthe
 ```sh
 jupyter notebook
 ```
-Once you run the above command it will start a local server where you can reach, view and run ipynb files easily.
+Once you run the above command it will start a local server where you can reach, view and run ipynb files easily. Check this [iPython Tutorial Page](/tutorials/ipython-tutorial/){:target="blank"}
 
 
 It is possible to stop virtual environment with the following command
@@ -60,14 +60,12 @@ It is possible to stop virtual environment with the following command
 deactivate
 ```
 
-
-
-
-- [EXERCISE 0](/exercises/exercise00){:target="blank"}
-- [EXERCISE 1](/exercises/exercise01){:target="blank"}
-
-I recommend you to check the documentation pages for these libraries. Some links which may worth checking can be
+I recommend you to check the documentation pages for the libraries given above. You can start with the following tutorials. It is important for you to understand why and where we do use libraries, i.e. pillow, numpy and matplotlib. 
 
 - [Pillow Tutorial](/tutorials/pillow-tutorial/){:target="blank"}
 - [Python Numpy Tutorial](/tutorials/python-numpy-tutorial/){:target="blank"}
-- [iPython Tutorial](/tutorials/ipython-tutorial/){:target="blank"}
+
+<!-- 
+- [EXERCISE 0](/exercises/exercise00){:target="blank"}
+- [EXERCISE 1](/exercises/exercise01){:target="blank"}
+-->
