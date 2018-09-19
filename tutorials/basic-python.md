@@ -6,9 +6,12 @@ layout: default
 title: Tentative Sylabus
 permalink: /tutorials/basic-python/
 ---
-### **Exercises**
+https://mee404.github.io/tutorials/
 
-It is strongly recommended that you first finish the tutorials. I will be using Python version 2.7 , hence for convenience, you are expected to install Python version 2.7 on your sytem. The walkthrough for the installation is platform specific, you should refer to the official [Python Website](https://www.python.org){:target="blank"}. Once you're sure that you installed the correct python version on your system CD to correspnding directory for MEE404 class you created by using whichever name you want to use. Here I preferred MEE404 for convenience.
+### **Basic Python Tutorial**
+
+It is strongly recommended that you first finish this tutorial. I will be using Python version 2.7 , hence for convenience, you are expected to install Python version 2.7 on your sytem. The walkthrough for the installation is platform specific, you should refer to the official [Python Website](https://www.python.org){:target="blank"}. Once you're sure that you installed the correct python version on your system CD to correspnding directory for MEE404 class you created by using whichever name you want to use. Here I preferred MEE404 for convenience.
+
 ```sh
 cd MEE404
 ```
