@@ -13,20 +13,26 @@ This is the homepage for our course. Visit this page frequently to see the annou
 
 - This year the course will be held in the fall semester.
 - At the first lecture date, 28.09.2018, I will be out of town for [a conference](http://idap.inonu.edu.tr){:target="blank"}. Hence, there will be no lecture on that day.
+- Your first week task is to read the contents of this website and try to run the given code samples by yourselves. This course requires some Python knowledge. 
 - There will be a lecture on 05.10.2018. See syllabus page for course place and schedule.
 
+### **About the Course**
+
+- [Tentative Syllabus](syllabus/){:target="blank"}
 
 ### **Tutorials**
 
+- [Basic Python](/tutorials/){:target="blank"}
 - [Pillow Tutorial](/tutorials/pillow-tutorial/){:target="blank"}
 - [Python Numpy Tutorial](/tutorials/python-numpy-tutorial/){:target="blank"}
 - [iPython Tutorial](/tutorials/ipython-tutorial/){:target="blank"}
 
-### **About the Course**
+
+
+
+
 
 <!-- - [Attendance and Grades](https://docs.google.com/spreadsheets/d/e/2PACX-1vTzWSFYwl88Ho8b1g-DZg9tzSbNYe97Qg-F9WxgcuMI0K-zNNv4BrYGlDIkyiK8NLa-uTZ3_bUKV2qv/pubhtml){:target="blank"} -->
-- [Tentative Syllabus](syllabus/){:target="blank"}
-- [Exercises](exercises/){:target="blank"}
 
 <!--
 ### **Latest Announcements**
