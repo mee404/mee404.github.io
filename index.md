@@ -11,14 +11,8 @@ This is the homepage for our course. Visit this page frequently to see the annou
 
 ### **Latest Announcements**
 
-**For Old (2017-2018 spring semester) students:**
-
-- Make Up exam results ,  results will be announced untill Friday, 21.09.2018.
-
-**For New (2018-2019 fall semester) students:**
-
 - This year the course will be held in the fall semester.
-- At the first lecture date, 28.09.2018, I will be out of town for [a conference](http://idap.inonu.edu.tr). Hence, there will be no lecture on that day.
+- At the first lecture date, 28.09.2018, I will be out of town for [a conference](http://idap.inonu.edu.tr){:target="blank"}. Hence, there will be no lecture on that day.
 - There will be a lecture on 05.10.2018. See syllabus page for course place and schedule.
 
 
