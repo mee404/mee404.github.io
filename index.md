@@ -23,14 +23,6 @@ This is the homepage for our course. Visit this page frequently to see the annou
 ### **Tutorials**
 
 - [Basic Python](/tutorials/basic-python/){:target="blank"}
-- [Pillow Tutorial](/tutorials/pillow-tutorial/){:target="blank"}
-- [Python Numpy Tutorial](/tutorials/python-numpy-tutorial/){:target="blank"}
-- [iPython Tutorial](/tutorials/ipython-tutorial/){:target="blank"}
-
-
-
-
-
 
 <!-- - [Attendance and Grades](https://docs.google.com/spreadsheets/d/e/2PACX-1vTzWSFYwl88Ho8b1g-DZg9tzSbNYe97Qg-F9WxgcuMI0K-zNNv4BrYGlDIkyiK8NLa-uTZ3_bUKV2qv/pubhtml){:target="blank"} -->
 

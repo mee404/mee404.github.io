@@ -6,7 +6,6 @@ layout: default
 title: Tentative Sylabus
 permalink: /tutorials/basic-python/
 ---
-https://mee404.github.io/tutorials/
 
 ### **Basic Python Tutorial**
 
@@ -28,12 +27,6 @@ Once you create virtual instance you can work on it by simply running the follow
 source venv/bin/activate
 ```
 
-It is also possible to stop virtual environment with the following command
-
-```sh
-deactivate
-```
-
 In this class we will need [pillow](https://pillow.readthedocs.io/en/latest/installation.html){:target="blank"} library which should be installed separately. You can use **pip** to install Pillow.
 
 ```sh
@@ -43,7 +36,7 @@ pip install pillow
 We will also extensively use matplotlib and numpy. Numpy comes with some installations but to ensure you have both matplotlib and numpy it is convenient to run pip for these libraries as well. 
 
 ```sh
-pip install matplotlib
+pip install numpy
 pip install matplotlib
 ```
 
@@ -58,7 +51,23 @@ See [iPython Tutorial](/tutorials/ipython-tutorial/){:target="blank"} for furthe
 ```sh
 jupyter notebook
 ```
-Once you run the above command it will start a local server where you can reach, view and run ipynb files easily. It is strongly recommended that you get ipython jupyter up and running, but alternatively you can reach the exercises as static pages from the following links as well.
+Once you run the above command it will start a local server where you can reach, view and run ipynb files easily.
+
+
+It is possible to stop virtual environment with the following command
+
+```sh
+deactivate
+```
+
+
+
 
 - [EXERCISE 0](/exercises/exercise00){:target="blank"}
 - [EXERCISE 1](/exercises/exercise01){:target="blank"}
+
+I recommend you to check the documentation pages for these libraries. Some links which may worth checking can be
+
+- [Pillow Tutorial](/tutorials/pillow-tutorial/){:target="blank"}
+- [Python Numpy Tutorial](/tutorials/python-numpy-tutorial/){:target="blank"}
+- [iPython Tutorial](/tutorials/ipython-tutorial/){:target="blank"}
