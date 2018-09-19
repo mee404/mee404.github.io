@@ -22,7 +22,7 @@ This is the homepage for our course. Visit this page frequently to see the annou
 
 ### **Tutorials**
 
-- [Basic Python](/tutorials/){:target="blank"}
+- [Basic Python](/tutorials/basic-python/){:target="blank"}
 - [Pillow Tutorial](/tutorials/pillow-tutorial/){:target="blank"}
 - [Python Numpy Tutorial](/tutorials/python-numpy-tutorial/){:target="blank"}
 - [iPython Tutorial](/tutorials/ipython-tutorial/){:target="blank"}
