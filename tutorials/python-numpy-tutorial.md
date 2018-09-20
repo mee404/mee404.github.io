@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Python Numpy Tutorial
+title: Python Numpy & Matplotlib Tutorial
 permalink: /tutorials/python-numpy-tutorial/
 ---
 
@@ -23,7 +23,7 @@ Python:
 Numpy
 -->
 
-This tutorial was contributed by [Justin Johnson](http://cs.stanford.edu/people/jcjohns/).
+This tutorial was prepared by [Justin Johnson](http://cs.stanford.edu/people/jcjohns/).
 
 We will use the Python programming language for all assignments in this course.
 Python is a great general-purpose programming language on its own, but with the

@@ -3,13 +3,13 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
-title: Tentative Sylabus
+title: Basic Python Tutorial
 permalink: /tutorials/basic-python/
 ---
 
 ### **Basic Python Tutorial**
 
-It is strongly recommended that you first finish this tutorial. I will be using Python version 2.7 , hence for convenience, you are expected to install Python version 2.7 on your sytem. The walkthrough for the installation is platform specific, you should refer to the official [Python Website](https://www.python.org){:target="blank"}. Once you're sure that you installed the correct python version on your system CD to correspnding directory for MEE404 class you created by using whichever name you want to use. Here I preferred MEE404 for convenience.
+It is strongly recommended that you first finish this tutorial. I will be using Python version 2.7 , hence for convenience, you are expected to install Python version 2.7 on your sytem. The walkthrough for the installation is platform specific, you should refer to the official [Python Website](https://www.python.org){:target='_blank'}. Once you're sure that you installed the correct python version on your system CD to correspnding directory for MEE404 class you created by using whichever name you want to use. Here I preferred MEE404 for convenience. 
 
 ```sh
 cd MEE404
@@ -27,7 +27,7 @@ Once you create virtual instance you can work on it by simply running the follow
 source venv/bin/activate
 ```
 
-In this class we will need [pillow](https://pillow.readthedocs.io/en/latest/installation.html){:target="blank"} library which should be installed separately. You can use **pip** to install Pillow.
+In this class we will need [pillow](https://pillow.readthedocs.io/en/latest/installation.html){:target='_blank'} library which should be installed separately. You can use **pip** to install Pillow.
 
 ```sh
 pip install pillow
@@ -46,12 +46,12 @@ Jupyter  is another common way to interpret with python scripts easily. You can 
 pip install jupyter
 ```
 
-See [iPython Tutorial](/tutorials/ipython-tutorial/){:target="blank"} for further details. The exercises will be in the exercises folder of [this](https://github.com/mee404/mee404.github.io){:target="blank"}  GitHub Repository. The repo will be updated regularly. To follow the updates visit this site occasionally. Assuming that you download the repo, just cd to the exercises directory and there run the following command.
+See [iPython Tutorial](/tutorials/ipython-tutorial/){:target='_blank'} for further details. The exercises will be in the exercises folder of [this](https://github.com/mee404/mee404.github.io){:target='_blank'}  GitHub Repository. The repo will be updated regularly. To follow the updates visit this site occasionally. Assuming that you download the repo, just cd to the exercises directory and there run the following command.
 
 ```sh
 jupyter notebook
 ```
-Once you run the above command it will start a local server where you can reach, view and run ipynb files easily. Check this [iPython Tutorial Page](/tutorials/ipython-tutorial/){:target="blank"}
+Once you run the above command it will start a local server where you can reach, view and run ipynb files easily. Check this [iPython Tutorial Page](/tutorials/ipython-tutorial/){:target='_blank'}
 
 
 It is possible to stop virtual environment with the following command
@@ -62,10 +62,10 @@ deactivate
 
 I recommend you to check the documentation pages for the libraries given above. You can start with the following tutorials. It is important for you to understand why and where we do use libraries, i.e. pillow, numpy and matplotlib. 
 
-- [Pillow Tutorial](/tutorials/pillow-tutorial/){:target="blank"}
-- [Python Numpy Tutorial](/tutorials/python-numpy-tutorial/){:target="blank"}
+- [Pillow Tutorial](/tutorials/pillow-tutorial/){:target='_blank'}
+- [Python Numpy and Matplotlib Tutorial](/tutorials/python-numpy-tutorial/){:target='_blank'}
 
 <!-- 
-- [EXERCISE 0](/exercises/exercise00){:target="blank"}
-- [EXERCISE 1](/exercises/exercise01){:target="blank"}
+- [EXERCISE 0](/exercises/exercise00){:target='_blank'}
+- [EXERCISE 1](/exercises/exercise01){:target='_blank'}
 -->

@@ -29,9 +29,12 @@ This year I am planning to follow the below grading scheme:
 ## Grading Scheme
 - Final (50%)
 - Midterm (35%)
-- Homeworks (15%)
+- Homeworks+Quizzes (15%)
 
-In the previous years I preferred giving a 30% weight for homeworks and wasn't asking direct programming questions in the exams. This year I am planning to halve the weight of the homeworks and will be asking programming questions, which are directly related with the homeworks, in both the midterm and final exam. Hence I strongly recommend you to do your best on Python homeworks and grasp the usage of corresponding libraries, namely pillow numpy and matplotlib. Detailed information about homework submission will be announced separately.
+In the previous years I preferred giving a 30% weight for homeworks and wasn't asking direct programming questions in the exams. This year I am planning to halve the weight of the homeworks and will be asking programming questions, which are directly related with the homeworks, in both the midterm and final exam. Hence I strongly recommend you to do your best on Python homeworks and grasp the usage of corresponding libraries, namely pillow numpy and matplotlib. Detailed information about homework submissions will be announced separately.
+
+There is a probability that I may give you a few pop quizzes during the semester. So DO NOT miss any class.
+
 
 ## Tentative Syllabus
 
