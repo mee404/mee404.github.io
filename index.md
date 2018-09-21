@@ -18,6 +18,8 @@ _(Notice: Github.io does not support HTML target tag. If you want ctrl+Click wil
 - Your first week task is to read the contents of this website and try to run the given code samples by yourselves. This course requires some Python knowledge. 
 - There will be a lecture on 05.10.2018. See syllabus page for course place and schedule.
 
+
+
 ### **About the Course**
 
 - [Tentative Syllabus](syllabus/){:target="blank"}
@@ -74,4 +76,9 @@ Find the details of the homework  in the following link:
  - [Date: 09.03.2018](https://drive.google.com/open?id=1lQmjKo7FscsmqsX9Uc7S9fMJUmeGHzbY){:target="blank"}
  - [Date: 02.03.2018](https://drive.google.com/open?id=193KpiWfQ2tXtS9bOAM1cFE-h6nWnRMGZ){:target="blank"}
 -->
+
+### **PYTHON SCRIPTS **
+
+ - [Date: 05.10.2018 EXERCISE01](scripts/MEE404L01E01.py){:target="blank"}
+
 
