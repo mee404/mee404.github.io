@@ -28,7 +28,7 @@ _(Notice: Github.io does not support HTML target tag. If you want ctrl+Click wil
 
 - [Basic Python](/tutorials/basic-python/){:target="blank"}
 
-### **PYTHON SCRIPTS **
+### **Python Scripts**
 
  - [Date: 05.10.2018 EXERCISE01](scripts/MEE404L01E01.py){:target="blank"}
 
