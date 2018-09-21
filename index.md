@@ -28,6 +28,10 @@ _(Notice: Github.io does not support HTML target tag. If you want ctrl+Click wil
 
 - [Basic Python](/tutorials/basic-python/){:target="blank"}
 
+### **PYTHON SCRIPTS **
+
+ - [Date: 05.10.2018 EXERCISE01](scripts/MEE404L01E01.py){:target="blank"}
+
 <!-- - [Attendance and Grades](https://docs.google.com/spreadsheets/d/e/2PACX-1vTzWSFYwl88Ho8b1g-DZg9tzSbNYe97Qg-F9WxgcuMI0K-zNNv4BrYGlDIkyiK8NLa-uTZ3_bUKV2qv/pubhtml){:target="blank"} -->
 
 <!--
@@ -77,8 +81,6 @@ Find the details of the homework  in the following link:
  - [Date: 02.03.2018](https://drive.google.com/open?id=193KpiWfQ2tXtS9bOAM1cFE-h6nWnRMGZ){:target="blank"}
 -->
 
-### **PYTHON SCRIPTS **
 
- - [Date: 05.10.2018 EXERCISE01](scripts/MEE404L01E01.py){:target="blank"}
 
 
