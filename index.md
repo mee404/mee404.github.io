@@ -19,7 +19,6 @@ _(Notice: Github.io does not support HTML target tag. If you want ctrl+Click wil
 - There will be a lecture on 05.10.2018. See syllabus page for course place and schedule.
 
 
-
 ### **About the Course**
 
 - [Tentative Syllabus](syllabus/){:target="blank"}
@@ -28,11 +27,12 @@ _(Notice: Github.io does not support HTML target tag. If you want ctrl+Click wil
 
 - [Basic Python](/tutorials/basic-python/){:target="blank"}
 
+<!--
 ### **Python Scripts**
 
  - [Date: 05.10.2018 EXERCISE01](scripts/MEE404L01E01.py){:target="blank"}
 
-<!-- - [Attendance and Grades](https://docs.google.com/spreadsheets/d/e/2PACX-1vTzWSFYwl88Ho8b1g-DZg9tzSbNYe97Qg-F9WxgcuMI0K-zNNv4BrYGlDIkyiK8NLa-uTZ3_bUKV2qv/pubhtml){:target="blank"} -->
+ - [Attendance and Grades](https://docs.google.com/spreadsheets/d/e/2PACX-1vTzWSFYwl88Ho8b1g-DZg9tzSbNYe97Qg-F9WxgcuMI0K-zNNv4BrYGlDIkyiK8NLa-uTZ3_bUKV2qv/pubhtml){:target="blank"} -->
 
 <!--
 ### **Latest Announcements**
