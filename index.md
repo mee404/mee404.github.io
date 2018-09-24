@@ -25,6 +25,8 @@ _(Notice: Github.io does not support HTML target tag. If you want ctrl+Click wil
 
 ### **Tutorials**
 
+Regularly check the below link since I may add up things that I find useful.
+
 - [Basic Python](/tutorials/basic-python/){:target="blank"}
 
 <!--

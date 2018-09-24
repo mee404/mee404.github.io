@@ -38,7 +38,7 @@ There is a probability that I may give you a few pop quizzes during the semester
 
 ## Tentative Syllabus
 
- - **Week 1:**   Digital Image Fundamentals 1
+ - **Week 1:**   Digital Image Fundamentals
  - **Week 2:**   Interpolation
  - **Week 3:**   Distance & Mathematical Tools & Image Enhancement & Point Processing & Intensity Transformations
  - **Week 4:**   Intensity Transformations & Histogram Processing
