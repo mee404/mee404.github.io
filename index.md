@@ -13,11 +13,9 @@ _(Notice: Github.io does not support HTML target tag. If you want ctrl+Click wil
 
 ### **Latest Announcements**
 
-- This year the course will be held in the fall semester.
 - At the first lecture date, 28.09.2018, I will be out of town for [a conference](http://idap.inonu.edu.tr){:target="blank"}. Hence, there will be no lecture on that day.
 - Your first week task is to read the contents of this website and try to run the given code samples by yourselves. This course requires some Python knowledge. 
 - There will be a lecture on 05.10.2018. See syllabus page for course place and schedule.
-
 
 ### **About the Course**
 
