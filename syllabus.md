@@ -49,3 +49,9 @@ There is a probability that I may give you a few pop quizzes during the semester
  - **Week 9:**   Frequency Domain Filtering & Image Restoration
  - **Week 10:**  Image Restoration & Color & Image Compression
  - **Week 11:**  Morphological Operations
+
+ ## Editor Reccomendation 
+
+You will need a code editor to write your python scripts. If you're into programming a good code editor is an important component. During years I've used lots of editors on various platforms. Lately, I've been using [VS CODE by Microsoft](https://code.visualstudio.com){:target="blank"}. 
+
+It is a free tool and can be used on most conventional operating system including Windows, MAC OSX and Linux. It has tons of free plugins for different tasks and it is fully integrated with GitHub. But still you can use any editor you like and feel confortable to work with.

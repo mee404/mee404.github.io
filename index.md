@@ -13,7 +13,6 @@ _(Notice: Github.io does not support HTML target tag. If you want ctrl+Click wil
 
 ### **Latest Announcements**
 
-- At the first lecture date, 28.09.2018, I will be out of town for [a conference](http://idap.inonu.edu.tr){:target="blank"}. Hence, there will be no lecture on that day.
 - Your first week task is to read the contents of this website and try to run the given code samples by yourselves. This course requires some Python knowledge. 
 - There will be a lecture on 05.10.2018. See syllabus page for course place and schedule.
 
@@ -26,6 +25,12 @@ _(Notice: Github.io does not support HTML target tag. If you want ctrl+Click wil
 Regularly check the below link since I may add up things that I find useful.
 
 - [Basic Python](/tutorials/basic-python/){:target="blank"}
+
+ ## Editor Reccomendation 
+
+You will need a code editor to write your python scripts. If you're into programming a good code editor is an important component. During years I've used lots of editors on various platforms. Lately, I've been using [VS CODE by Microsoft](https://code.visualstudio.com){:target="blank"}. 
+
+It is a free tool and can be used on most conventional operating system including Windows, MAC OSX and Linux. It has tons of free plugins for different tasks and it is fully integrated with GitHub. But still you can use any editor you like and feel confortable to work with.
 
 <!--
 ### **Python Scripts**
