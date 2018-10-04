@@ -26,7 +26,7 @@ Regularly check the below link since I may add up things that I find useful.
 
 - [Basic Python](/tutorials/basic-python/){:target="blank"}
 
- ## Editor Reccomendation 
+ ### **Editor Recomendation**
 
 You will need a code editor to write your python scripts. If you're into programming a good code editor is an important component. During years I've used lots of editors on various platforms. Lately, I've been using [VS CODE by Microsoft](https://code.visualstudio.com){:target="blank"}. 
 

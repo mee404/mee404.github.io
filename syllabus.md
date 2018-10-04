@@ -50,7 +50,7 @@ There is a probability that I may give you a few pop quizzes during the semester
  - **Week 10:**  Image Restoration & Color & Image Compression
  - **Week 11:**  Morphological Operations
 
- ## Editor Recomendation 
+ ### **Editor Recomendation**
 
 You will need a code editor to write your python scripts. If you're into programming a good code editor is an important component. During years I've used lots of editors on various platforms. Lately, I've been using [VS CODE by Microsoft](https://code.visualstudio.com){:target="blank"}. 
 
