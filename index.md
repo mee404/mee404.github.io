@@ -13,8 +13,8 @@ _(Notice: Github.io does not support HTML target tag. If you want ctrl+Click wil
 
 ### **Latest Announcements**
 
-- Your first week task is to read the contents of this website and try to run the given code samples by yourselves. This course requires some Python knowledge. 
-- There will be a lecture on 05.10.2018. See syllabus page for course place and schedule.
+- Read the contents of this website and try to run the given code samples by yourselves. This course requires some Python knowledge. 
+- Till next lecture (on 12.10.2018) I am expecting everyone to complete above task
 
 ### **About the Course**
 
@@ -42,14 +42,14 @@ It is a free tool and can be used on most conventional operating system includin
 Due Date: **31.05.2018 23:59:59**
 Find the details of the homework  in the following link:
 - [HOMEWORK 05](/homeworks/HOMEWORK05){:target="blank"}
-
+-->
 ### **CLASS PRESENTATIONS**
- - [WEEK 1](https://docs.google.com/presentation/d/1d6ayhonXY4yacCzmG5Agm9LwzB_zbgRhjCfDPBQF5yQ/edit?usp=sharing){:target="blank"}
+ - [WEEK 1](hhttps://docs.google.com/presentation/d/1d6ayhonXY4yacCzmG5Agm9LwzB_zbgRhjCfDPBQF5yQ/edit?usp=sharing){:target="blank"}
 
 ### **CLASSWORKS (QUESTIONS SOLVED ON THE BOARD)**
 
- - [Date: 05.10.2018](https://drive.google.com/open?id=1iHbr25RSs0wNeCN6ngazH68yfwoSqo4j){:target="blank"}
--->
+ - [Date: 05.10.2018](https://drive.google.com/open?id=1R3gM_II58L3onoX7DfCvcJIb9fFvkjmS){:target="blank"}
+
 
 
 
