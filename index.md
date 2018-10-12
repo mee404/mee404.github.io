@@ -11,7 +11,7 @@ This is the homepage for our course. Visit this page frequently to see the annou
 
 _(Notice: Github.io does not support HTML target tag. If you want ctrl+Click will open the links in new tabs.)_
 
-### **Latest Announcements**
+### **LATEST ANNOUNCEMENTS**
 
 - See your first homework below (DUE DATE : 18.10.2018 23:59:59)
 - See the updated sections CLASS PRESENTATIONS, CLASS WORKS and PYTHON SCRIPTS
