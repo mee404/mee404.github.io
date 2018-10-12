@@ -35,6 +35,12 @@ Find the details of the homework  in the following link:
 
  - You can reach the sample python scripts we see in the lectures [here](https://github.com/mee404/mee404.github.io/tree/master/scripts){:target="blank"}.
 
+### **ATTENDANCE**
+
+- See your attendance situation from [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTeFSa2EU590wUj2hJGp_xN_kwCHgN3h-7IZCXPluc7sMBPTKcWUO26H-jSiwE-hRv8p7zQsThFrTrD/pubhtml){:target="blank"}
+
+
+
 ### **ABOUT THE COURSE**
 
 - [Tentative Syllabus](syllabus/){:target="blank"}
