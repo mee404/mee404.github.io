@@ -37,7 +37,7 @@ Find the details of the homework  in the following link:
 
 ### **ATTENDANCE**
 
-- See your attendance situation from [here].(https://docs.google.com/spreadsheets/d/e/2PACX-1vTeFSa2EU590wUj2hJGp_xN_kwCHgN3h-7IZCXPluc7sMBPTKcWUO26H-jSiwE-hRv8p7zQsThFrTrD/pub?gid=632101658&single=true&output=pdf){:target="blank"}
+- See your attendance situation from [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTeFSa2EU590wUj2hJGp_xN_kwCHgN3h-7IZCXPluc7sMBPTKcWUO26H-jSiwE-hRv8p7zQsThFrTrD/pub?gid=632101658&single=true&output=pdf){:target="blank"}.
 
 
 
