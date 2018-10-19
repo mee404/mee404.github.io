@@ -16,12 +16,13 @@ _(Notice: Github.io does not support HTML target tag. If you want ctrl+Click wil
 - Our midterm will be on November 9th at 10:00am .
 - See the updated sections CLASS PRESENTATIONS, CLASS WORKS and ATTENDANCE & GRADES
 
-<!-->
+<!--
 ### **HOMEWORK**
 
 Due Date: **18.10.2018 23:59:59**
 Find the details of the homework  in the following link:
 - [HOMEWORK01](https://docs.google.com/document/d/1SNqWj7UYdylohoi201KG6d2JYHZniV8yJiYsMKXkEqg/edit?usp=sharing){:target="blank"}
+
 -->
 
 ### **CLASS PRESENTATIONS**
