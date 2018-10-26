@@ -27,12 +27,14 @@ Find the details of the homework  in the following link:
 
 ### **CLASS PRESENTATIONS**
 
+ - [WEEK04](https://docs.google.com/presentation/d/12w9_QO7dg7-ADvn5we7vYU-Uzjt48swQdRb6mOjUQTg/edit?usp=sharing){:target="blank"}
  - [WEEK03](https://docs.google.com/presentation/d/1iZ-yEh09PEy-h0Khh4qH7nFf7jzUyr_F3YuQ5BashGE/edit?usp=sharing){:target="blank"}
  - [WEEK02](https://docs.google.com/presentation/d/1XHhVwM71nb9gcPWDWLu55vNbjqsRi6tqHLK2eKbo4hw/edit?usp=sharing){:target="blank"}
  - [WEEK01](https://docs.google.com/presentation/d/1d6ayhonXY4yacCzmG5Agm9LwzB_zbgRhjCfDPBQF5yQ/edit?usp=sharing){:target="blank"}
 
 ### **CLASSWORKS (QUESTIONS SOLVED ON THE BOARD)**
 
+ - [Date: 26.10.2018](https://drive.google.com/open?id=1bdQir4DEHe31FbDnc4cgWHS1MMtISCT_){:target="blank"}
  - [Date: 19.10.2018](https://drive.google.com/open?id=1BAG1yVJE6tl_sYlELsrfnMbImcopZF1s){:target="blank"}
  - [Date: 12.10.2018](https://drive.google.com/open?id=17sHTEQ8WgPW7v5ynGjoxK-aGiSp95JAE){:target="blank"}
  - [Date: 05.10.2018](https://drive.google.com/open?id=1AKPzqIQnVeytYbL2_SR6W6zcAr1TMGJP){:target="blank"}
