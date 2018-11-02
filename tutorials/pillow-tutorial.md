@@ -78,7 +78,7 @@ from PIL import Image,ImageFilter
 
 im = Image.open("lena.png")
 im_blur = im.filter(ImageFilter.BLUR)
-im_blur2 = im_blur.(ImageFilter.BLUR)
+im_blur2 = im_blur.filter(ImageFilter.BLUR)
 im_blur.save('lena-blur.jpg','JPEG')
 im_blur2.save('lena-blur2.jpg','JPEG')
 ```

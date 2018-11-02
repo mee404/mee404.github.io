@@ -13,21 +13,21 @@ _(Notice: Github.io does not support HTML target tag. If you want ctrl+Click wil
 
 ### **LATEST ANNOUNCEMENTS**
 
+- Our midterm will be on November 16th at 10:00am.
+- Midterm will cover all the subjects up to Histogram Specification.
+- See HOMEWORK02 below (due: 08.11.2018 23:59:59)
 - See the updated sections CLASS PRESENTATIONS, CLASS WORKS and ATTENDANCE & GRADES sections
-- Try the code samples given in this weeks presentation by yourselves.
-- Our midterm will be on November 9th at 10:00am .
+- We will have a lecture next week ( on 09.11.2018)
 
-<!--
 ### **HOMEWORK**
 
-Due Date: **18.10.2018 23:59:59**
-Find the details of the homework  in the following link:
-- [HOMEWORK01](https://docs.google.com/document/d/1SNqWj7UYdylohoi201KG6d2JYHZniV8yJiYsMKXkEqg/edit?usp=sharing){:target="blank"}
+Due Date: **08.11.2018 23:59:59**. Find the details of the homework  in the following link:
+- [HOMEWORK02](https://docs.google.com/document/d/1v8MUtA16vZBoW7tr2O6uFii5wy3DRqEc7izCsMLJVrU/edit?usp=sharing){:target="blank"}
 
--->
 
 ### **CLASS PRESENTATIONS**
 
+ - [WEEK05](https://docs.google.com/presentation/d/16MV0GseLrhODfKIikTlRQGyF9D97YZxpYmwlm1zcXBA/edit?usp=sharing){:target="blank"}
  - [WEEK04](https://docs.google.com/presentation/d/12w9_QO7dg7-ADvn5we7vYU-Uzjt48swQdRb6mOjUQTg/edit?usp=sharing){:target="blank"}
  - [WEEK03](https://docs.google.com/presentation/d/1iZ-yEh09PEy-h0Khh4qH7nFf7jzUyr_F3YuQ5BashGE/edit?usp=sharing){:target="blank"}
  - [WEEK02](https://docs.google.com/presentation/d/1XHhVwM71nb9gcPWDWLu55vNbjqsRi6tqHLK2eKbo4hw/edit?usp=sharing){:target="blank"}
