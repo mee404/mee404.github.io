@@ -14,7 +14,7 @@ _(Notice: Github.io does not support HTML target tag. If you want ctrl+Click wil
 ### **LATEST ANNOUNCEMENTS**
 
 - Our midterm will be on November 16th at 10:00am.
-- Midterm will cover all the subjects up to Histogram Specification.
+- Midterm will cover all the subjects up to Local Histogram Equalization **(i.e. Histogram Specification is inclueded!)**
 - See HOMEWORK02 below (due: 08.11.2018 23:59:59)
 - See the updated sections CLASS PRESENTATIONS, CLASS WORKS and ATTENDANCE & GRADES sections
 - We will have a lecture next week ( on 09.11.2018)
