@@ -14,15 +14,16 @@ _(Notice: Github.io does not support HTML target tag. If you want ctrl+Click wil
 ### **LATEST ANNOUNCEMENTS**
 
 - Our midterm will be on November 16th at 10:00am.
-- Midterm will cover all the subjects up to Local Histogram Equalization **(i.e. Histogram Specification is included!)**
+- Midterm will cover all the subjects up to Local Histogram Equalization **(i.e. Histogram Specification is included, local histogram equalization is NOT included)**
 - See the updated sections CLASS PRESENTATIONS, CLASS WORKS and ATTENDANCE & GRADES sections
 - Check your attendance and inform me if there is any mistake in your attendance records.
 
+<!-->
 ### **HOMEWORK**
 
 Due Date: **08.11.2018 23:59:59**. Find the details of the homework  in the following link:
 - [HOMEWORK02](https://docs.google.com/document/d/1v8MUtA16vZBoW7tr2O6uFii5wy3DRqEc7izCsMLJVrU/edit?usp=sharing){:target="blank"}
-
+-->
 
 ### **CLASS PRESENTATIONS**
 
