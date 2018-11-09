@@ -15,9 +15,8 @@ _(Notice: Github.io does not support HTML target tag. If you want ctrl+Click wil
 
 - Our midterm will be on November 16th at 10:00am.
 - Midterm will cover all the subjects up to Local Histogram Equalization **(i.e. Histogram Specification is included!)**
-- See HOMEWORK02 below (due: 08.11.2018 23:59:59)
 - See the updated sections CLASS PRESENTATIONS, CLASS WORKS and ATTENDANCE & GRADES sections
-- We will have a lecture next week ( on 09.11.2018)
+- Check your attendance and inform me if there is any mistake in your attendance records.
 
 ### **HOMEWORK**
 
@@ -34,6 +33,7 @@ Due Date: **08.11.2018 23:59:59**. Find the details of the homework  in the foll
  - [WEEK01](https://docs.google.com/presentation/d/1d6ayhonXY4yacCzmG5Agm9LwzB_zbgRhjCfDPBQF5yQ/edit?usp=sharing){:target="blank"}
 
 ### **CLASSWORKS (QUESTIONS SOLVED ON THE BOARD)**
+ - [Date: 09.11.2018](https://drive.google.com/open?id=1F3Q5MpN_GHi9uarGo-y53rXY1UotL_CS){:target="blank"}
  - [Date: 02.11.2018](https://drive.google.com/open?id=16muTNxIjg0pZDPyH3gXlSgtgMq3zAfrz){:target="blank"}
  - [Date: 26.10.2018](https://drive.google.com/open?id=1bdQir4DEHe31FbDnc4cgWHS1MMtISCT_){:target="blank"}
  - [Date: 19.10.2018](https://drive.google.com/open?id=1BAG1yVJE6tl_sYlELsrfnMbImcopZF1s){:target="blank"}
