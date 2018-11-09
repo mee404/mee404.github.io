@@ -18,7 +18,7 @@ _(Notice: Github.io does not support HTML target tag. If you want ctrl+Click wil
 - See the updated sections CLASS PRESENTATIONS, CLASS WORKS and ATTENDANCE & GRADES sections
 - Check your attendance and inform me if there is any mistake in your attendance records.
 
-<!-->
+<!--
 ### **HOMEWORK**
 
 Due Date: **08.11.2018 23:59:59**. Find the details of the homework  in the following link:
