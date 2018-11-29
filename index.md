@@ -13,8 +13,6 @@ _(Notice: Github.io does not support HTML target tag. If you want ctrl+Click wil
 
 ### **LATEST ANNOUNCEMENTS**
 
-- Our midterm will be on November 16th at 10:00am.
-- Midterm will cover all the subjects up to Local Histogram Equalization **(i.e. Histogram Specification is included, local histogram equalization is NOT included)**
 - See the updated sections CLASS PRESENTATIONS, CLASS WORKS and ATTENDANCE & GRADES sections
 - Check your attendance and inform me if there is any mistake in your attendance records.
 
@@ -27,6 +25,7 @@ Due Date: **08.11.2018 23:59:59**. Find the details of the homework  in the foll
 
 ### **CLASS PRESENTATIONS**
 
+ - [WEEK07](https://docs.google.com/presentation/d/19gbYiVLDbyiZVIFpjdIJnIyTLJ9NCptInhGj6Mgp5rg/edit?usp=sharing){:target="blank"}  
  - [WEEK06]( https://docs.google.com/presentation/d/1ahf_F6Y7g_cVgvPp5LpU4Z3vxOsV6yTTeTfIwmSx3Us/edit?usp=sharing){:target="blank"}
  - [WEEK05](https://docs.google.com/presentation/d/16MV0GseLrhODfKIikTlRQGyF9D97YZxpYmwlm1zcXBA/edit?usp=sharing){:target="blank"}
  - [WEEK04](https://docs.google.com/presentation/d/12w9_QO7dg7-ADvn5we7vYU-Uzjt48swQdRb6mOjUQTg/edit?usp=sharing){:target="blank"}
@@ -35,6 +34,8 @@ Due Date: **08.11.2018 23:59:59**. Find the details of the homework  in the foll
  - [WEEK01](https://docs.google.com/presentation/d/1d6ayhonXY4yacCzmG5Agm9LwzB_zbgRhjCfDPBQF5yQ/edit?usp=sharing){:target="blank"}
 
 ### **CLASSWORKS (QUESTIONS SOLVED ON THE BOARD)**
+
+ - [Date: 23.11.2018](https://drive.google.com/open?id=1DZagco8efK9McfZNsuWLIPuZEIuQ-3br){:target="blank"}
  - [Date: 09.11.2018](https://drive.google.com/open?id=1F3Q5MpN_GHi9uarGo-y53rXY1UotL_CS){:target="blank"}
  - [Date: 02.11.2018](https://drive.google.com/open?id=16muTNxIjg0pZDPyH3gXlSgtgMq3zAfrz){:target="blank"}
  - [Date: 26.10.2018](https://drive.google.com/open?id=1bdQir4DEHe31FbDnc4cgWHS1MMtISCT_){:target="blank"}
