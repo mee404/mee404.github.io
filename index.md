@@ -16,12 +16,15 @@ _(Notice: Github.io does not support HTML target tag. If you want ctrl+Click wil
 - See the updated sections CLASS PRESENTATIONS, CLASS WORKS and ATTENDANCE & GRADES sections
 - Check your attendance and inform me if there is any mistake in your attendance records.
 
-<!--
-### **HOMEWORK**
 
+### **HOMEWORK**
+_Homework 3 will be here soon_
+
+<!--
 Due Date: **08.11.2018 23:59:59**. Find the details of the homework  in the following link:
 - [HOMEWORK02](https://docs.google.com/document/d/1v8MUtA16vZBoW7tr2O6uFii5wy3DRqEc7izCsMLJVrU/edit?usp=sharing){:target="blank"}
 -->
+
 
 ### **CLASS PRESENTATIONS**
 
