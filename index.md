@@ -18,12 +18,12 @@ _(Notice: Github.io does not support HTML target tag. If you want ctrl+Click wil
 
 
 ### **HOMEWORK**
-_Homework 3 will be here soon_
 
-<!--
-Due Date: **08.11.2018 23:59:59**. Find the details of the homework  in the following link:
-- [HOMEWORK02](https://docs.google.com/document/d/1v8MUtA16vZBoW7tr2O6uFii5wy3DRqEc7izCsMLJVrU/edit?usp=sharing){:target="blank"}
--->
+Due Date: **13.12.2018 23:59:59**. Find the details of the homework  in the following link:
+- [HOMEWORK03](https://docs.google.com/document/d/1NAyS-RK3hb35td-QcBUruq0XXSCeMKdiP61mgSFJBd0/edit?usp=sharing){:target="blank"}
+
+
+
 
 
 ### **CLASS PRESENTATIONS**
