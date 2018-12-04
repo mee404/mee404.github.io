@@ -37,7 +37,7 @@ Due Date: **13.12.2018 23:59:59**. Find the details of the homework  in the foll
  - [WEEK01](https://docs.google.com/presentation/d/1d6ayhonXY4yacCzmG5Agm9LwzB_zbgRhjCfDPBQF5yQ/edit?usp=sharing){:target="blank"}
 
 ### **CLASSWORKS (QUESTIONS SOLVED ON THE BOARD)**
-
+ - [Date: 30.11.2018](https://drive.google.com/open?id=1VmVLkGlVyyafB_fhMXdsBNLEjWYgBO9P){:target="blank"}
  - [Date: 23.11.2018](https://drive.google.com/open?id=1DZagco8efK9McfZNsuWLIPuZEIuQ-3br){:target="blank"}
  - [Date: 09.11.2018](https://drive.google.com/open?id=1F3Q5MpN_GHi9uarGo-y53rXY1UotL_CS){:target="blank"}
  - [Date: 02.11.2018](https://drive.google.com/open?id=16muTNxIjg0pZDPyH3gXlSgtgMq3zAfrz){:target="blank"}
