@@ -19,8 +19,10 @@ _(Notice: Github.io does not support HTML target tag. If you want ctrl+Click wil
 ### **HOMEWORK**
 
 Due Date: **13.12.2018 23:59:59**. Find the details of the homework  in the following link:
+
 - [HOMEWORK03](https://docs.google.com/document/d/1NAyS-RK3hb35td-QcBUruq0XXSCeMKdiP61mgSFJBd0/edit?usp=sharing){:target="blank"}
-ney
+
+
 ### **CLASS PRESENTATIONS**
  - [WEEK08](https://docs.google.com/presentation/d/1nQqQ9WhlwPBCdJtqCTEgrUqVVqfrJ0Vl5Y9NJVb-PRo/edit?usp=sharing){:target="blank"}  
  - [WEEK07](https://docs.google.com/presentation/d/19gbYiVLDbyiZVIFpjdIJnIyTLJ9NCptInhGj6Mgp5rg/edit?usp=sharing){:target="blank"}  
