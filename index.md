@@ -22,9 +22,6 @@ Due Date: **13.12.2018 23:59:59**. Find the details of the homework  in the foll
 - [HOMEWORK03](https://docs.google.com/document/d/1NAyS-RK3hb35td-QcBUruq0XXSCeMKdiP61mgSFJBd0/edit?usp=sharing){:target="blank"}
 ney
 ### **CLASS PRESENTATIONS**
-
-https://drive.google.com/open?id=1nQqQ9WhlwPBCdJtqCTEgrUqVVqfrJ0Vl5Y9NJVb-PRo
-
  - [WEEK08](https://docs.google.com/presentation/d/1nQqQ9WhlwPBCdJtqCTEgrUqVVqfrJ0Vl5Y9NJVb-PRo/edit?usp=sharing){:target="blank"}  
  - [WEEK07](https://docs.google.com/presentation/d/19gbYiVLDbyiZVIFpjdIJnIyTLJ9NCptInhGj6Mgp5rg/edit?usp=sharing){:target="blank"}  
  - [WEEK06]( https://docs.google.com/presentation/d/1ahf_F6Y7g_cVgvPp5LpU4Z3vxOsV6yTTeTfIwmSx3Us/edit?usp=sharing){:target="blank"}
