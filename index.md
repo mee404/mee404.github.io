@@ -25,6 +25,8 @@ Due Date: **13.12.2018 23:59:59**. Find the details of the homework  in the foll
 
 -->
 ### **CLASS PRESENTATIONS**
+
+ - [WEEK10](https://docs.google.com/presentation/d/1SFAl9Z5rY-Cf5jns3iaiO_cagBDwl5oyVLUzYIS5Qio/edit?usp=sharing){:target="blank"} 
  - [WEEK09](https://docs.google.com/presentation/d/1qocJ0Q_x_OzRl86uPJJwREETMDUenDOiG9G4yoDpN4Q/edit?usp=sharing){:target="blank"}  
  - [WEEK08](https://docs.google.com/presentation/d/1nQqQ9WhlwPBCdJtqCTEgrUqVVqfrJ0Vl5Y9NJVb-PRo/edit?usp=sharing){:target="blank"}  
  - [WEEK07](https://docs.google.com/presentation/d/19gbYiVLDbyiZVIFpjdIJnIyTLJ9NCptInhGj6Mgp5rg/edit?usp=sharing){:target="blank"}  
