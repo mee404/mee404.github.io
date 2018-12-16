@@ -16,13 +16,14 @@ _(Notice: Github.io does not support HTML target tag. If you want ctrl+Click wil
 - See the updated sections CLASS PRESENTATIONS, CLASS WORKS and ATTENDANCE & GRADES sections
 - Check your attendance and inform me if there is any mistake in your attendance records.
 
+<!--
 ### **HOMEWORK**
 
 Due Date: **13.12.2018 23:59:59**. Find the details of the homework  in the following link:
 
 - [HOMEWORK03](https://docs.google.com/document/d/1NAyS-RK3hb35td-QcBUruq0XXSCeMKdiP61mgSFJBd0/edit?usp=sharing){:target="blank"}
 
-
+-->
 ### **CLASS PRESENTATIONS**
  - [WEEK09](https://docs.google.com/presentation/d/1qocJ0Q_x_OzRl86uPJJwREETMDUenDOiG9G4yoDpN4Q/edit?usp=sharing){:target="blank"}  
  - [WEEK08](https://docs.google.com/presentation/d/1nQqQ9WhlwPBCdJtqCTEgrUqVVqfrJ0Vl5Y9NJVb-PRo/edit?usp=sharing){:target="blank"}  
@@ -35,6 +36,7 @@ Due Date: **13.12.2018 23:59:59**. Find the details of the homework  in the foll
  - [WEEK01](https://docs.google.com/presentation/d/1d6ayhonXY4yacCzmG5Agm9LwzB_zbgRhjCfDPBQF5yQ/edit?usp=sharing){:target="blank"}
 
 ### **CLASSWORKS (QUESTIONS SOLVED ON THE BOARD)**
+ - [Date: 14.12.2018](https://drive.google.com/open?id=1SJ-qDXzN_ywt7KeSoB-8RqXZZZZAwUbe){:target="blank"}
  - [Date: 07.12.2018](https://drive.google.com/open?id=1jCoqZT17if455n7cqscQ02MIkGxXUnpH){:target="blank"}
  - [Date: 30.11.2018](https://drive.google.com/open?id=1VmVLkGlVyyafB_fhMXdsBNLEjWYgBO9P){:target="blank"}
  - [Date: 23.11.2018](https://drive.google.com/open?id=1DZagco8efK9McfZNsuWLIPuZEIuQ-3br){:target="blank"}
@@ -44,7 +46,6 @@ Due Date: **13.12.2018 23:59:59**. Find the details of the homework  in the foll
  - [Date: 19.10.2018](https://drive.google.com/open?id=1BAG1yVJE6tl_sYlELsrfnMbImcopZF1s){:target="blank"}
  - [Date: 12.10.2018](https://drive.google.com/open?id=17sHTEQ8WgPW7v5ynGjoxK-aGiSp95JAE){:target="blank"}
  - [Date: 05.10.2018](https://drive.google.com/open?id=1AKPzqIQnVeytYbL2_SR6W6zcAr1TMGJP){:target="blank"}
-
 
 
 ### **ATTENDANCE and GRADES**
