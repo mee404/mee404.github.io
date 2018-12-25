@@ -26,6 +26,7 @@ Due Date: **13.12.2018 23:59:59**. Find the details of the homework  in the foll
 -->
 ### **CLASS PRESENTATIONS**
 
+ - [WEEK11](https://docs.google.com/presentation/d/1BlJQrYQ6UGPk2Ee8fX2cxVjREukLN_x44j0UeLqjjFA/edit?usp=sharing{:target="blank"} 
  - [WEEK10](https://docs.google.com/presentation/d/1SFAl9Z5rY-Cf5jns3iaiO_cagBDwl5oyVLUzYIS5Qio/edit?usp=sharing){:target="blank"} 
  - [WEEK09](https://docs.google.com/presentation/d/1qocJ0Q_x_OzRl86uPJJwREETMDUenDOiG9G4yoDpN4Q/edit?usp=sharing){:target="blank"}  
  - [WEEK08](https://docs.google.com/presentation/d/1nQqQ9WhlwPBCdJtqCTEgrUqVVqfrJ0Vl5Y9NJVb-PRo/edit?usp=sharing){:target="blank"}  
@@ -38,6 +39,7 @@ Due Date: **13.12.2018 23:59:59**. Find the details of the homework  in the foll
  - [WEEK01](https://docs.google.com/presentation/d/1d6ayhonXY4yacCzmG5Agm9LwzB_zbgRhjCfDPBQF5yQ/edit?usp=sharing){:target="blank"}
 
 ### **CLASSWORKS (QUESTIONS SOLVED ON THE BOARD)**
+ - [Date: 21.12.2018](https://drive.google.com/open?id=16Ox2bUlWE7Y4QGycXUn-N27Zu--4N6aQ){:target="blank"}
  - [Date: 14.12.2018](https://drive.google.com/open?id=1SJ-qDXzN_ywt7KeSoB-8RqXZZZZAwUbe){:target="blank"}
  - [Date: 07.12.2018](https://drive.google.com/open?id=1jCoqZT17if455n7cqscQ02MIkGxXUnpH){:target="blank"}
  - [Date: 30.11.2018](https://drive.google.com/open?id=1VmVLkGlVyyafB_fhMXdsBNLEjWYgBO9P){:target="blank"}
