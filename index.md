@@ -11,19 +11,21 @@ This is the homepage for our course. Visit this page frequently to see the annou
 
 _(Notice: Github.io does not support HTML target tag. If you want ctrl+Click will open the links in new tabs.)_
 
+
+<!--
 ### **LATEST ANNOUNCEMENTS**
 
 - See the updated sections CLASS PRESENTATIONS, CLASS WORKS and ATTENDANCE & GRADES sections
 - Check your attendance and inform me if there is any mistake in your attendance records.
 
-<!--
+
 ### **HOMEWORK**
 
 Due Date: **13.12.2018 23:59:59**. Find the details of the homework  in the following link:
 
 - [HOMEWORK03](https://docs.google.com/document/d/1NAyS-RK3hb35td-QcBUruq0XXSCeMKdiP61mgSFJBd0/edit?usp=sharing){:target="blank"}
 
--->
+
 ### **CLASS PRESENTATIONS**
 
  - [WEEK11](https://docs.google.com/presentation/d/1BlJQrYQ6UGPk2Ee8fX2cxVjREukLN_x44j0UeLqjjFA/edit?usp=sharing){:target="blank"} 
@@ -51,10 +53,17 @@ Due Date: **13.12.2018 23:59:59**. Find the details of the homework  in the foll
  - [Date: 12.10.2018](https://drive.google.com/open?id=17sHTEQ8WgPW7v5ynGjoxK-aGiSp95JAE){:target="blank"}
  - [Date: 05.10.2018](https://drive.google.com/open?id=1AKPzqIQnVeytYbL2_SR6W6zcAr1TMGJP){:target="blank"}
 
+-->
+
+
 
 ### **ATTENDANCE and GRADES**
 
+The grade results are announced.
+
+<!--
 - See your attendance and grades situation from [here](https://docs.google.com/spreadsheets/d/e/2PACX-1vTeFSa2EU590wUj2hJGp_xN_kwCHgN3h-7IZCXPluc7sMBPTKcWUO26H-jSiwE-hRv8p7zQsThFrTrD/pubhtml){:target="blank"}.
+-->
 
 ### **ABOUT THE COURSE**
 
