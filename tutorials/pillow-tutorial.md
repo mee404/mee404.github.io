@@ -99,7 +99,7 @@ im_edges.save('edges.jpg','JPEG')
 
 ## EXAMPLE 7
 
-In this example we want to create an image file from scratch. The aim is to create an image which is darkest at its center and brightest at image corners. In order to create such an image, mathematical definition of circle can be used. The following code is trying to create such an image. It defines a circle located at the image center. The desired result is the image on the right but if you run the following script you get the image on the left. There is a little flaw in the following script. Can you find and fix it such that the code generates the image n the right?
+In this example we want to create an image file from scratch. The aim is to create an image which is darkest at its center and brightest at image corners. In order to create such an image, mathematical definition of circle can be used. The following code is trying to create such an image. It defines a circle located at the image center. The desired result is the image on the right but if you run the following script you get the image on the left. There is a little flaw in the following script. Can you find and fix it such that the code generates the image on the right?
 
 
 ```python
@@ -126,4 +126,4 @@ for x in range(img.shape[0]):
 #Save Image directly from buffer
 Image.fromarray(img,'L').save('circle-bad.png','PNG')
 ```
-![circle bad](/assets/circle-bad.png){:height="49%" width="49%"} &nbsp;&nbsp;&nbsp;![circle good](/assets/circle-good.png){:height="49%" width="49%"}
+![circle bad](/assets/circle-bad.png){:height="40%" width="40%"} &nbsp;&nbsp;&nbsp;![circle good](/assets/circle-good.png){:height="40%" width="40%"}
